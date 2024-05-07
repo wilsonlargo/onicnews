@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Boletín Sistema de Buen Gobierno ONIC</title>
     <!--Aplicaciones con bootstrap-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -18,10 +18,35 @@
     <link rel="stylesheet" href="./styles/styles.css">
 
 </head>
+<header class="sticky-top">
+    <nav class="navbar navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#" data-bs-toggle="offcanvas"
+                            data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling">Boletines</a>
+                    </li>
+
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="buscar" aria-label="buscar">
+                    <button class="btn btn-outline-secondary" type="submit">Buscar</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+</header>
 
 <body>
     <img src="./img/banernoticiab.png" class="img-fluid" alt="...">
-    <div class="d-flex justify-content-center text-white h2 p-3 bg-org-gris">
+    <div class="d-flex justify-content-center text-white p-3 bg-org-gris" style="font-size: 2vw;">
         Bienvenido al Boletín Informativo "Buen Gobierno"
     </div>
     <div class="d-flex justify-content-center bg-img-gris">
@@ -36,10 +61,16 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="./img/boletines/img1.jpg" class="d-block w-100" alt="...">
+                    <a class="nav-link active" aria-current="page" href="./boletines/boletin001.html">
+                        <img src="./img/boletines/img1.jpg" class="d-block w-100" alt="...">
+                    </a>
                     <div class="carousel-caption d-none d-md-block">
-                        <h5>Primera noticia</h5>
-                        <p>Some representative placeholder content for the first slide.</p>
+
+                        <a class="nav-link active" aria-current="page" href="./boletines/boletin001.html">
+                            <h5>Boletín 1, Mayo 2024</h5>
+                            <p>Los avances de paz en el gobierno</p>
+                        </a>
+
                     </div>
                 </div>
                 <div class="carousel-item">
@@ -71,46 +102,107 @@
     </div>
 
 
-    <div class="row container-fluid m-3 d-flex justify-content-center">
-        <div class="m-2 section-ogr">
-            <div class="h4">Título de sección</div>
-            <hr class="line-org-title">
-            <p class="par-org">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur repellendus, deserunt
-                magnam
-                minus, molestias ipsa magni temporibus quam pariatur rem doloribus maxime iure nemo laboriosam eaque
-                corrupti, error necessitatibus nulla?</p>
-        </div>
-        <div class="m-2 section-ogr">
-            <div class="h4">Título de sección</div>
-            <hr class="line-org-title">
-            <p class="par-org">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur repellendus, deserunt
-                magnam
-                minus, molestias ipsa magni temporibus quam pariatur rem doloribus maxime iure nemo laboriosam eaque
-                corrupti, error necessitatibus nulla?</p>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
+                <div class="m-2">
+                    <div class="h4">Título de sección</div>
+                    <hr class="line-org-title">
+                    <p class="par-org">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur repellendus,
+                        deserunt
+                        magnam
+                        minus, molestias ipsa magni temporibus quam pariatur rem doloribus maxime iure nemo laboriosam
+                        eaque
+                        corrupti, error necessitatibus nulla?</p>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
+                <div class="m-2">
+                    <div class="h4">Título de sección</div>
+                    <hr class="line-org-title">
+                    <p class="par-org">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur repellendus,
+                        deserunt
+                        magnam
+                        minus, molestias ipsa magni temporibus quam pariatur rem doloribus maxime iure nemo laboriosam
+                        eaque
+                        corrupti, error necessitatibus nulla?</p>
+                </div>
+            </div>
         </div>
     </div>
     <footer class="bg-org-gris text-white">
-        <div class="row d-flex justify-content-center"> 
+        <div class="row d-flex justify-content-center">
             <img src="./img/logochikis.png" alt="Logo 3" style="width: 400px;" class="m-3">
         </div>
         <div class="d-flex justify-content-center">
-            <div class="row">&copy; 2024 Boletín Informativo "Buen Gobierno"</div> 
-            
+            <div class="row">&copy; 2024 Boletín Informativo "Buen Gobierno"</div>
+
         </div>
         <div class="d-flex justify-content-center">
-            <div class="row">Consejería Secretaría General</div> 
+            <div class="row">Consejería Secretaría General</div>
         </div>
         <div class="d-flex justify-content-center">
-            <div class="row">Calle 12b No. 4-38, Bogotá.</div> 
+            <div class="row">Calle 12b No. 4-38, Bogotá.</div>
         </div>
         <div class="d-flex justify-content-center">
-            <div class="row">Conmutador: (60) (1) 2842168, 2811845 FAX (57) (1) 2843465.</div> 
+            <div class="row">Conmutador: (60) (1) 2842168, 2811845 FAX (57) (1) 2843465.</div>
         </div>
         <div class="d-flex justify-content-center pb-5">
-            <div class="row">Correo: consejerogeneral@onic.org.co, sistemabuengobierno@onic.org.co</div> 
+            <div class="row">Correo: consejerogeneral@onic.org.co, sistemabuengobierno@onic.org.co</div>
         </div>
 
     </footer>
 </body>
+
+<div class="offcanvas offcanvas-start shadow" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1"
+    id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
+    <div class="offcanvas-header bg-org-gris text-white">
+        <h5 class="offcanvas-title " id="offcanvasScrollingLabel">Lista de noticias</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close">
+
+        </button>
+    </div>
+    <div class="offcanvas-body">
+        <div class="list-group" id="lstBoletines">
+            <a class="navbar-brand mt-2" href="./boletines/boletin001.html">
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+                    <div class="ms-2 me-auto">
+                        <div class="fw-bold">Boletín 1, Mayo</div>
+                        Los desafios de la paz en colombia
+                    </div>
+                    <span class="badge text-bg-secondary rounded-pill">2024</span>
+                </li>
+            </a>
+            <a class="navbar-brand mt-2" href="./boletines/boletin001.html">
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+                    <div class="ms-2 me-auto">
+                        <div class="fw-bold">Boletín 1, Mayo</div>
+                        Los desafios de la paz en colombia
+                    </div>
+                    <span class="badge text-bg-secondary rounded-pill">2024</span>
+                </li>
+            </a>
+            <a class="navbar-brand mt-2" href="./boletines/boletin001.html">
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+                    <div class="ms-2 me-auto">
+                        <div class="fw-bold">Boletín 1, Mayo</div>
+                        Los desafios de la paz en colombia
+                    </div>
+                    <span class="badge text-bg-secondary rounded-pill">2024</span>
+                </li>
+            </a>
+            <a class="navbar-brand mt-2" href="./boletines/boletin001.html">
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+                    <div class="ms-2 me-auto">
+                        <div class="fw-bold">Boletín 1, Mayo</div>
+                        Los desafios de la paz en colombia
+                    </div>
+                    <span class="badge text-bg-secondary rounded-pill">2024</span>
+                </li>
+            </a>
+            
+        </div>
+    </div>
+</div>
 
 </html>

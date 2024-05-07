@@ -8,10 +8,28 @@
     background-position: center top;
     background-repeat: no-repeat;
 }
+.bg-img-gris-boletin {
+    background-image: url(../img/banernoticiac.png);
+    background-size: 100% auto;
+    background-position:center;
+    background-repeat: no-repeat;
+}
 
 .text-org-gris {
     color: #2E3439;
 }
+
+.text-org-resposive-6{
+    font-size: 1vw;
+}
+.h1-org-resposive{
+    font-size: 2vw;
+    font-weight: bold;
+}
+.h2-org-resposive{
+    font-size: 1vw;
+}
+
 
 .section-ogr {
     width: 500px;
@@ -25,6 +43,10 @@
 
 .line-org-title{
     border-color: #2E3439;
+    border-width: 5px;
+}
+.line-org-title-light{
+    border-color: white;
     border-width: 5px;
 }
 
