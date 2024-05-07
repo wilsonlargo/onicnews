@@ -1,0 +1,68 @@
+.bg-org-gris {
+    background-color: #2E3439;
+}
+
+.bg-img-gris {
+    background-image: url(../img/banergrisa.png);
+    background-size: 100% auto;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+.text-org-gris {
+    color: #2E3439;
+}
+
+.section-ogr {
+    width: 500px;
+    height: 200px;
+
+}
+.par-org{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.line-org-title{
+    border-color: #2E3439;
+    border-width: 5px;
+}
+
+.btn-org {
+    transition-duration: 0.4s;
+    background-color: #840A54;
+    color: white;
+}
+
+
+
+
+.btn-org:hover {
+    background-color: #A42F6A;
+    color: white;
+}
+
+.list-group-org {
+    transition-duration: 0.4s;
+    background-color: #840A54;
+    color: white;
+}
+
+.list-group-org:hover {
+    background-color: #A42F6A;
+    color: white;
+}
+
+.bg-gradiente-org {
+    background: linear-gradient(#840A54, #A42F6A);
+}
+
+.bg-gradiente-org-2 {
+    background: linear-gradient(#CD6155, #D98880);
+}
+
+.bg-org-gray {
+    transition-duration: 0.4s;
+    background-color: #F2F3F4;
+
+}
