@@ -5,7 +5,7 @@
 .bg-img-gris {
     background-image: url(../img/banergrisa.png);
     
-    height: 400px;
+    height: 500px;
     background-position: center top;
     background-repeat: no-repeat;
 }
@@ -40,6 +40,12 @@
 .par-org{
     text-align: justify;
     text-justify: inter-word;
+}
+
+.par-org-wrap{
+    text-align: justify;
+    text-justify: inter-word;
+    text-wrap: wrap;
 }
 
 .line-org-title{

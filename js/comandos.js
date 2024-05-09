@@ -46,8 +46,8 @@ function leer_boletines() {
         elemento.href=href=`./boletines/${boletin.link}.html`
         elemento.innerHTML=`
         <li class="list-group-item d-flex justify-content-between align-items-start">
-                <div class="ms-2 me-auto">
-                    <div class="fw-bold">Boletín ${i++}, ${boletin.mes}</div>
+                <div class="ms-2 me-auto par-org-wrap">
+                    <div class="fw-bold" >Boletín ${i++}, ${boletin.mes}</div>
                     ${boletin.titulo}
                 </div>
                 <span class="badge text-bg-secondary rounded-pill">${boletin.vigencia}</span>
