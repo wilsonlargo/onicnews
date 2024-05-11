@@ -1,0 +1,35 @@
+---
+const { boletin } = Astro.props;
+import BoletinNav from "./BoletinNav.astro"
+---
+
+<header>
+    <BoletinNav boletin={boletin} />
+    
+    <div class="d-flex justify-content-center">
+        <img src="../img/banernoticiac.png" alt="Logo 3" class="img-fluid">
+    </div>
+</header>
+
+<section class="sticky-top text-center p-3">
+    <h3 class="text-white">BOLETÍN {boletin.index}</h3>
+    <h5 class="fst-italic text-white">{boletin.mes} {boletin.vigencia}</h5>
+</section>
+
+<style lang="scss">
+    section {
+        background: rgb(46, 52, 57, 0.7);
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+
+        h3 {
+            font-size: 2vw;
+            font-weight: bold;
+        }
+
+        h5 {
+            font-size: 1vw;
+        }
+    }
+</style>
