@@ -4,6 +4,7 @@ import { getEntry } from "astro:content";
 import MainLayout from "../../layouts/MainLayout.astro";
 import Footer from "../../components/UI/Footer.astro";
 import BoletinHeader from "../../components/Boletin/BoletinHeader.astro";
+import TableOfContent from "../../components/Boletin/TableOfContent.astro";
 
 export async function getStaticPaths() {
   const boletines = await Astro.glob("../../content/boletines/*.md");
@@ -14,12 +15,14 @@ export async function getStaticPaths() {
 
 const { boletin } = Astro.params;
 const entry = await getEntry("boletines", boletin);
-const { Content } = await entry.render();
+const { Content, headings } = await entry.render();
 ---
 
 <MainLayout titulo={`Boletín ${entry.data.index} | ${entry.data.titulo}`}>
 
   <BoletinHeader boletin={entry.data} />
+
+  <TableOfContent headings={headings} />
 
   <main class="container my-5 content">
     <Content />
@@ -31,8 +34,15 @@ const { Content } = await entry.render();
 <style lang="scss" is:global>
   @import 'bootstrap/scss/bootstrap.scss';
 
-
   .content {
+
+    > section > section {
+      @extend .gap-5;
+      @extend .mb-3;
+      column-count: 2;
+      break-inside: avoid;
+      break-after: column;
+    }
 
     text-align: justify;
 
@@ -45,6 +55,7 @@ const { Content } = await entry.render();
     }
 
     h3 {
+      @extend .h4;
       color: #414141;
     }
 
@@ -59,6 +70,7 @@ const { Content } = await entry.render();
       border-radius: 0.3rem;
       @extend .p-3;
       @extend .pe-4;
+      break-after: column;
     }
 
     img {

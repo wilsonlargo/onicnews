@@ -1,0 +1,13 @@
+---
+const { headings } = Astro.props;
+---
+
+<nav class="text-end container my-5">{
+    headings.filter(h => h.depth === 1).map(header => (
+            <a class="nav-link active" href={`#${header.slug}`}>{header.text}</a>
+        )
+    )
+}</nav>
+
+<style>
+</style>
