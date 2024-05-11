@@ -8,9 +8,9 @@ const { frontmatter, active } = Astro.props
     <img src="../../public/img/boletines/img2.jpg" class="d-block w-100" alt="..." />
     
     <div class="carousel-caption d-none d-md-block">
-      <h2>{frontmatter.titulo}</h2>
+      <h2>{frontmatter.short}</h2>
       <p class="fs-4">
-        Boletín {frontmatter.index}, {frontmatter.fecha}
+        Boletín {frontmatter.index}, {frontmatter.mes} {frontmatter.vigencia}
       </p>
     </div>
 

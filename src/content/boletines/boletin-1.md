@@ -1,8 +1,9 @@
 ---
 index: 1
+titulo: "44 años de lucha del movimiento indígena colombiano, reflejados en la defensa de los territorios indígenas  y la gestión del Buen Gobierno desde la ONIC. Un Buen Gobierno para Pervivir"
+short: "44 años de lucha"
 vigencia: 2024
 mes: "Mayo"
-titulo: "44 años de lucha del movimiento indígena colombiano, reflejados en la defensa de los territorios indígenas  y la gestión del Buen Gobierno desde la ONIC. Un Buen Gobierno para Pervivir"
 keys: "lucha, movimiento, gobierno, pervivir"
 ---
 
