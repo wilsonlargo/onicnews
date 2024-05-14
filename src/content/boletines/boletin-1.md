@@ -4,7 +4,7 @@ titulo: "44 años de lucha del movimiento indígena colombiano, reflejados en la
 short: "44 años de lucha"
 vigencia: 2024
 mes: "Mayo"
-keys: "lucha, movimiento, gobierno, pervivir"
+tags: "lucha, movimiento, gobierno, pervivir"
 img: "/img/boletines/img2.jpg"
 ---
 
@@ -16,6 +16,7 @@ img: "/img/boletines/img2.jpg"
 En el seno del resurgimiento del movimiento indígena Colombiano estructuramos hace 44 años la ONIC, la Consejería Secretaría General conforma el Sistema de Buen Gobierno donde se retoma el mandato 21 de la Ley de Gobierno Propio, en tanto es fundamental para orientar y dirigir efectivamente nuestras luchas por la Pervivencia.
 
 ![Primera imagen](./images/b1i2.png)
+<span class="img-sub"></span>
 
 > En esta entrega del Boletín Informativo del Sistema de Buen Gobierno se informará sobre los avances en la adopción del Plan Estratégico de la ONIC por el Consejo Mayor de Gobierno, la movilización de la ONIC en el marco del primero de Mayo Dia Internacional de los Trabajadores, avances del programa Juntanza Étnica en la ONIC y se relacionan las columnas de opinión del Consejero Jaizareama Gerardo Jumi. Que sea de mucho agrado para nuestros lectores el contenido que encontrarán en estas letras recordando la fuerza que tenemos en la unidad, como lo menciona el coro de nuestro glorioso himno: “Con la fuerza de un pensar diverso resplandece orgullosa la ONIC, y retoma el luchar de mi ancestro que nos lleva a un próspero vivir”.
 

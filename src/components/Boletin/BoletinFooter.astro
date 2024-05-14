@@ -1,0 +1,19 @@
+---
+const { rawTags } = Astro.props;
+import Tag from "@components/UI/Tag.astro";
+const tags = rawTags.split(',').map(tag => tag.trim());
+---
+
+<section class="d-flex justify-content-center align-items-center py-5 gap-2 p-3">
+        {
+            tags.map(tag => (
+                <Tag color="purple" class="">{tag}</Tag>
+            ))
+        }
+</section>
+
+<style>
+    section {
+        background-color: #e9e9e9;
+    }
+</style>
