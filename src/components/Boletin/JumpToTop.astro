@@ -1,0 +1,33 @@
+<button id="jump-to-top" type="button" class="btn  btn-sm position-fixed bottom-0 end-0 m-4 rounded-circle">
+    <i class="bi bi-chevron-up"></i>
+</button>
+
+
+<style lang="scss">
+    button {
+        transform: scale(1.2);
+        background-color: #b3b3b3;
+
+        &:hover {
+            background-color: #a6a6a6;
+        }
+
+        &:active {
+            background-color: #5a5a5a;
+            transform: scale(0.98);
+            transition: 0.1s;
+        }
+    }
+</style>
+
+
+<script>
+    const boton = document.getElementById('jump-to-top');
+
+    boton.addEventListener('click', () => {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    });
+</script>

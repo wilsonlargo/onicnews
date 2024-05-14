@@ -6,6 +6,7 @@ import Footer from "@components/UI/Footer.astro";
 import BoletinHeader from "@components/Boletin/BoletinHeader.astro";
 import TableOfContent from "@components/Boletin/TableOfContent.astro";
 import BoletinFooter from "@components/Boletin/BoletinFooter.astro";
+import JumpToTop from "@components/Boletin/JumpToTop.astro";
 
 export async function getStaticPaths() {
   const boletines = await Astro.glob("../../content/boletines/*.md");
@@ -33,6 +34,7 @@ const { Content, headings } = await entry.render();
 
   <BoletinFooter rawTags={entry.data.tags} />
   <Footer />
+  <JumpToTop client:load/>
 </MainLayout>
 
 <style lang="scss" is:global>
@@ -41,6 +43,25 @@ const { Content, headings } = await entry.render();
   .content {
     img {
       @extend .img-fluid;
+      @extend .mx-auto;
+      margin-bottom: 0px;
+    }
+
+    p:has(> img) {
+      text-align: center;
+      justify-content: center;
+    }
+
+    .img-sub {
+      @extend .bg-success;
+      @extend .text-white;
+      @extend .p-2;
+      @extend .text-center;
+      @extend .rounded-bottom;
+      @extend .w-100;
+      margin-top: 0px;
+      font-size: 8pt;
+      display: inline-block;
     }
 
     > section > section {
@@ -55,13 +76,18 @@ const { Content, headings } = await entry.render();
 
     h1 {
       @extend .p-3;
+      @extend .mb-3;
       display: block;
       background-color: black;
       color: white;
-
     }
 
     h3 {
+      @extend .h4;
+      color: #414141;
+    }
+
+    h4 {
       @extend .h4;
       color: #414141;
     }
@@ -78,10 +104,6 @@ const { Content, headings } = await entry.render();
       @extend .p-3;
       @extend .pe-4;
       break-after: column;
-    }
-
-    img {
-      @extend .mb-3;
     }
 
   }
