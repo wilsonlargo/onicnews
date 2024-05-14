@@ -1,7 +1,8 @@
 ---
 import { getEntry } from "astro:content";
 
-import MainLayout from "../../layouts/MainLayout.astro";
+
+import MainLayout from "@src/layouts/MainLayout.astro";
 import Footer from "@components/UI/Footer.astro";
 import BoletinHeader from "@components/Boletin/BoletinHeader.astro";
 import TableOfContent from "@components/Boletin/TableOfContent.astro";
@@ -34,7 +35,7 @@ const { Content, headings } = await entry.render();
 
   <BoletinFooter rawTags={entry.data.tags} />
   <Footer />
-  <JumpToTop client:load/>
+  <JumpToTop />
 </MainLayout>
 
 <style lang="scss" is:global>
