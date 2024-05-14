@@ -1,13 +1,14 @@
 ---
 const { boletin } = Astro.props;
 import BoletinNav from "./BoletinNav.astro"
+import HeaderImg from "@public/img/banernoticiac.png"
 ---
 
 <header>
     <BoletinNav boletin={boletin} />
     
     <div class="d-flex justify-content-center">
-        <img src="../img/banernoticiac.png" alt="Logo 3" class="img-fluid">
+        <img src={HeaderImg.src} alt="Logo 3" class="img-fluid">
     </div>
 </header>
 

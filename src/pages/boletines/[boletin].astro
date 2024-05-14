@@ -35,6 +35,9 @@ const { Content, headings } = await entry.render();
   @import 'bootstrap/scss/bootstrap.scss';
 
   .content {
+    img {
+      @extend .img-fluid;
+    }
 
     > section > section {
       @extend .gap-5;

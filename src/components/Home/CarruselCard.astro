@@ -5,7 +5,7 @@ const { frontmatter, active } = Astro.props
 <div class={`carousel-item ${active ? "active" : ""}`}>
   <a href={`/boletines/boletin-${frontmatter.index}`}>
     
-    <img src="../../public/img/boletines/img2.jpg" class="d-block w-100" alt="..." />
+    <img src={frontmatter.img} class="d-block w-100" alt="..." />
     
     <div class="carousel-caption d-none d-md-block">
       <h2>{frontmatter.short}</h2>
