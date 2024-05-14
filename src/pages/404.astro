@@ -1,0 +1,29 @@
+---
+import MainLayout from "../layouts/MainLayout.astro"
+import Footer from "../components/UI/Footer.astro"
+import BoletinNav from "../components/Boletin/BoletinNav.astro"
+---
+
+<MainLayout titulo={`Pagina no encontrada | 404`}>
+  <header>
+    <BoletinNav />
+    
+    <div class="d-flex justify-content-center">
+        <img src="../img/banernoticiac.png" alt="Logo 3" class="img-fluid">
+    </div>
+  </header>
+
+
+  <main class="container text-center my-5">
+    <h2>Ups pagina no encontrada</h2>
+    <p>The specified file was not found on this website. Please check the URL for mistakes and try again.</p>
+  </main>
+  
+
+  <Footer />
+  
+</MainLayout>
+
+<style lang="scss">
+  
+</style>

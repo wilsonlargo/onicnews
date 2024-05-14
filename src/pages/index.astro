@@ -1,0 +1,65 @@
+---
+import "../styles/global.css";
+import Footer from "../components/UI/Footer.astro";
+import MainLayout from "../layouts/MainLayout.astro";
+import CarruselCard from "../components/Home/CarruselCard.astro";
+
+const boletines = await Astro.glob("../content/boletines/*.md");
+---
+
+<MainLayout titulo="Boletín Sistema de Buen Gobierno ONIC">
+  <header class="sticky-top">
+    <nav class="navbar navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#"></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#" data-bs-toggle="offcanvas" data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling" onclick="leer_boletines()">Boletines</a>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search" placeholder="buscar" aria-label="buscar"/>
+            <button class="btn btn-outline-secondary" type="submit">Buscar</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <img src="./img/banernoticiab.png" class="img-fluid" alt="..." />
+  <div class="d-flex justify-content-center text-white p-3 bg-org-gris" style="font-size: 2vw;">Bienvenido al Boletín Informativo "Buen Gobierno"</div>
+
+  <div class="d-flex justify-content-center bg-img-gris">
+    <div id="carruselBoletines" class="carousel slide" data-bs-ride="carousel" style="width: 40%;">
+
+      <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carruselBoletines" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carruselBoletines" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carruselBoletines" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
+      <div class="carousel-inner">
+          {
+            boletines.map((boletin, index) => (
+              index === 0 ? (<CarruselCard frontmatter={boletin.frontmatter} active={true} />) : (<CarruselCard frontmatter={boletin.frontmatter} active={false} />)
+            ))
+          }
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carruselBoletines" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Siguiente</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carruselBoletines" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Anterior</span>
+      </button>
+  </div>
+  
+</div>
+
+  <Footer />
+
+</MainLayout>

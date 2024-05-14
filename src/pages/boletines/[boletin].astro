@@ -1,0 +1,82 @@
+---
+import { getEntry } from "astro:content";
+
+import MainLayout from "../../layouts/MainLayout.astro";
+import Footer from "../../components/UI/Footer.astro";
+import BoletinHeader from "../../components/Boletin/BoletinHeader.astro";
+import TableOfContent from "../../components/Boletin/TableOfContent.astro";
+
+export async function getStaticPaths() {
+  const boletines = await Astro.glob("../../content/boletines/*.md");
+  return boletines.map((boletin) => ({
+    params: { boletin: `boletin-${boletin.frontmatter.index}` },
+  }));
+}
+
+const { boletin } = Astro.params;
+const entry = await getEntry("boletines", boletin);
+const { Content, headings } = await entry.render();
+---
+
+<MainLayout titulo={`Boletín ${entry.data.index} | ${entry.data.titulo}`}>
+
+  <BoletinHeader boletin={entry.data} />
+
+  <TableOfContent headings={headings} />
+
+  <main class="container my-5 content">
+    <Content />
+  </main>
+
+  <Footer />
+</MainLayout>
+
+<style lang="scss" is:global>
+  @import 'bootstrap/scss/bootstrap.scss';
+
+  .content {
+
+    > section > section {
+      @extend .gap-5;
+      @extend .mb-3;
+      column-count: 2;
+      break-inside: avoid;
+      break-after: column;
+    }
+
+    text-align: justify;
+
+    h1 {
+      @extend .p-3;
+      display: block;
+      background-color: black;
+      color: white;
+
+    }
+
+    h3 {
+      @extend .h4;
+      color: #414141;
+    }
+
+    hr {
+      border: 2px solid rgb(92, 92, 92);
+      opacity: 0.4!important;
+    }
+
+    blockquote {
+      background-color: #f9f9f9;
+      border-left: 10px solid #696969;
+      border-radius: 0.3rem;
+      @extend .p-3;
+      @extend .pe-4;
+      break-after: column;
+    }
+
+    img {
+      @extend .mb-3;
+    }
+
+  }
+
+</style>
