@@ -116,6 +116,7 @@ En medio de la tragedia de miles de palestinos están siendo asesinados, a la ve
                 <a href="#" class="text-white">aquí</a>. Puedes escribirme con ideas, comentarios y sugerencias a sistemabuengobierno@onic.org.co
                 o a mi cuenta de Twitter: @GerardoJumi</div>
 </div>
+<div class="bg-warning text-white p-2" style="font-size: 12pt;">El contenido en esta página web no es información oficial del Gobierno de Estados Unidos y no representa las opiniones o las posiciones de la Agencia de Estados Unidos para el Desarrollo Internacional (USAID).</div>
 
 
 
@@ -133,6 +134,6 @@ En medio de la tragedia de miles de palestinos están siendo asesinados, a la ve
 
 [^6]: Intervención de la Compañera Emberá Chami Directora de la Unidad para la Atención y Reparación Integral a las Víctimas Patricia Tobón ante la Corte Constitucional en la sesión técnica de la Sala Especial de Seguimiento a la Sentencia T-025 de 2004, 10 de mayo de 2024.
 
-<div class="bg-secondary text-white" style="font-size: 12pt;">El contenido en esta página web no es información oficial del Gobierno de Estados Unidos y no representa las opiniones o las posiciones de la Agencia de Estados Unidos para el Desarrollo Internacional (USAID).</div>
+
 
 
