@@ -89,6 +89,10 @@ const { Content, headings } = await entry.render();
       column-count: 2;
       break-inside: avoid;
       break-after: column;
+
+      @media (max-width: 768px) {
+        column-count: 1;
+      }
     }
 
     text-align: justify;
