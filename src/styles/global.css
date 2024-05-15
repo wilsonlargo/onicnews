@@ -57,12 +57,6 @@ body {
     text-justify: inter-word;
 }
 
-.par-org-wrap{
-    text-align: justify;
-    text-justify: inter-word;
-    text-wrap: wrap;
-}
-
 .line-org-title{
     border-color: #2E3439;
     border-width: 5px;

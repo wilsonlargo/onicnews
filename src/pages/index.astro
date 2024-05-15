@@ -1,39 +1,17 @@
 ---
-import "../styles/global.css";
-import Footer from "../components/UI/Footer.astro";
+import "@src/styles/global.css";
+import Footer from "@components/UI/Footer.astro";
 import MainLayout from "../layouts/MainLayout.astro";
-import CarruselCard from "../components/Home/CarruselCard.astro";
+import CarruselCard from "@components/Home/CarruselCard.astro";
+import Header from "@components/Home/Header.astro";
 
-const boletines = await Astro.glob("../content/boletines/*.md");
+const boletines = await Astro.glob("@src/content/boletines/*.md");
 ---
 
 <MainLayout titulo="Boletín Sistema de Buen Gobierno ONIC">
-  <header class="sticky-top">
-    <nav class="navbar navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#"></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#" data-bs-toggle="offcanvas" data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling" onclick="leer_boletines()">
-                <i class="bi bi-bookmarks"></i>
-                <span>Boletines</span>
-              </a>
-            </li>
-          </ul>
-          <form class="d-flex" role="search">
-            <input class="form-control me-2" type="search" placeholder="buscar" aria-label="buscar"/>
-            <button class="btn btn-outline-secondary" type="submit">Buscar</button>
-          </form>
-        </div>
-      </div>
-    </nav>
-  </header>
+  <Header />
 
-  <img src="./img/banernoticiab.png" class="img-fluid" alt="..." />
+  <img src="/img/banernoticiab.png" class="img-fluid" alt="..." />
   <div class="d-flex justify-content-center text-white p-3 bg-org-gris" style="font-size: 2vw;">Bienvenido al Boletín Informativo "Buen Gobierno"</div>
 
   <div class="d-flex justify-content-center bg-img-gris">
