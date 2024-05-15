@@ -8,23 +8,27 @@ tags: "Lucha, Movimiento, Gobierno, Pervivir"
 img: "/img/boletines/b1i1.png"
 ---
 
-# Editorial Planeación ONIC
+# Editorial
 
 ### 44 años de lucha del movimiento indígena colombiano, luchando por la UNIDAD hacia un Buen Gobierno de la ONIC
 ---
-44 años defendiendo la autonomía indígena en Colombia, recordando la fuerza que tiene el movimiento indígena plural y unido.
-
-En el seno del resurgimiento del movimiento indígena Colombiano estructuramos hace 44 años la ONIC, la Consejería Secretaría General conforma el Sistema de Buen Gobierno donde se retoma el mandato 21 de la Ley de Gobierno Propio, en tanto es fundamental para orientar y dirigir efectivamente nuestras luchas por la Pervivencia física y cultural de nuestros Sistemas de Gobierno.
+En el seno del resurgimiento del movimiento indígena Colombiano estructuramos hace 44 años la ONIC, la Consejería Secretaría General conforma el Sistema de Buen Gobierno donde se retoma el mandato 21 de la Ley de Gobierno Propio, en tanto es fundamental para orientar y dirigir efectivamente nuestras luchas por la Pervivencia física y cultural de nuestros Sistemas de Gobierno. 
 
 ![Imagen](./images/b1i2.png)
+<div class="bg-success">Hola</div>
 
 Reconocemos el legado y el papel histórico que como Pueblos Originarios caminamos en las rutas trazadas en nuestros relatos de origen para defender nuestros territorios. Es así que en el seno del resurgimiento del movimiento indígena Colombiano estructuramos hace 44 años la ONIC desde el saber acumulado: en el origen del tiempo, en nuestras comunidades y organizaciones para la pervivencia de nuestros Pueblos en medio de las difíciles situaciones de conflicto armado, de racismo estructural y de colonialismo intelectual que amenaza permanente con nuestra extinción.
 
+Reconocemos el legado y el papel histórico que como Pueblos Originarios caminamos en las rutas trazadas en nuestros relatos de origen para defender nuestros territorios. Es así que en el seno del resurgimiento del movimiento indígena Colombiano estructuramos hace 44 años la **ONIC** desde el saber acumulado: en el origen del tiempo, en nuestras comunidades y organizaciones para la pervivencia de nuestros Pueblos en medio de las difíciles situaciones de conflicto armado, de racismo estructural y de colonialismo intelectual que amenaza permanente con nuestra extinción. 
+
 Es connatural a nosotros como Pueblos Originarios repensarnos, asumir los aprendizajes y redireccionar nuestra acción organizativa, prueba de ello es la gestación de la Ley de Gobierno Propio de la ONIC que se produjo en dos periodos de gobierno entre el año 2012-2021 y fue en el X Congreso de los Pueblos Indígenas de la ONIC que se refrendó este acuerdo procurando siempre por la **UNIDAD** de los Pueblos Indígenas de Colombia sabiendo la fuerza de un movimiento indígena diverso pero unido para **PERVIVIR**. La Consejería Secretaría General retoma el mandato 21 Buen Gobierno de la Ley de Gobierno Propio ya que es fundamental para la ONIC fortalecer y dirigir los esfuerzos efectivamente a la par que se evidencia su gestión de manera transparente y se incorporan los códigos de ética y control social donde prime la construcción de acuerdos sociales para que prevalezca el interés colectivo sobre el individual garantizando así la vida, los territorios y los sistemas de pensamiento y gobierno para nuestras semillas de vida y el equilibrio de la Madre Tierra como casa de todos.
+
 
 En ese sentido la Consejería Secretaría General crea y dinamiza el Sistema de Buen Gobierno para que apoye la función directiva del Consejo Mayor de Gobierno y de la Asamblea Nacional de Autoridades dando lugar a la sistematización y seguimiento de la Planeación Estratégica de la **ONIC**[^1] sistematizando la Memoria Institucional y brindando información actualizada del ámbito político que atañe a los Pueblos Indígenas especialmente en el orden nacional e internacional.
 
-En esta entrega del Boletín Informativo del Sistema de Buen Gobierno se informará sobre los avances en la adopción del Plan Estratégico de la ONIC por el Consejo Mayor de Gobierno, la movilización de la ONIC en el marco del primero de Mayo Dia Internacional de los Trabajadores, avances del programa Juntanza Étnica en la ONIC y se relacionan las columnas de opinión del Consejero Jaizareama Gerardo Jumi. Para nuestros lectores que el contenido que encuentre en estas letras recuerden la fuerza y la esperanza que tenemos en un movimiento indígena plural y unido, como lo menciona el coro de nuestro glorioso himno: _“Con la fuerza de un pensar diverso resplandece orgullosa la ONIC, y retoma el luchar de mi ancestro que nos lleva a un próspero vivir…”_.
+
+En esta entrega del Boletín Informativo del Sistema de Buen Gobierno se informará sobre los avances en la adopción del Plan Estratégico de la ONIC por el Consejo Mayor de Gobierno, la movilización de la ONIC en el marco del primero de Mayo Dia Internacional de los Trabajadores, avances del programa Juntanza Étnica en la ONIC y se relacionan las columnas de opinión del Consejero Jaizareama Gerardo Jumi. Para nuestros lectores que el contenido que encuentre en estas letras recuerden la fuerza y la esperanza que tenemos en un movimiento indígena plural y unido, como lo menciona el coro de nuestro glorioso himno: “Con la fuerza de un pensar diverso resplandece orgullosa la ONIC, y retoma el luchar de mi ancestro que nos lleva a un próspero 
+vivir…”._.
 
 # Actualidad de los Pueblos indígenas de Colombia
  
