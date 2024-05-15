@@ -116,7 +116,7 @@ En medio de la tragedia de miles de palestinos están siendo asesinados, a la ve
                 <a href="#" class="text-white">aquí</a>. Puedes escribirme con ideas, comentarios y sugerencias a sistemabuengobierno@onic.org.co
                 o a mi cuenta de Twitter: @GerardoJumi</div>
 </div>
-<div class="bg-warning text-white p-2" style="font-size: 12pt;">El contenido en esta página web no es información oficial del Gobierno de Estados Unidos y no representa las opiniones o las posiciones de la Agencia de Estados Unidos para el Desarrollo Internacional (USAID).</div>
+<div class="bg-warning text-dark p-3 text-center" style="font-size: 12pt;">El contenido en esta página web no es información oficial del Gobierno de Estados Unidos y no representa las opiniones o las posiciones de la Agencia de Estados Unidos para el Desarrollo Internacional (USAID).</div>
 
 
 
