@@ -117,7 +117,7 @@ En medio de la tragedia de miles de palestinos están siendo asesinados, a la ve
                 o a mi cuenta de Twitter: @GerardoJumi</div>
 </div>
 
-# <div class="bg-secondary p-2 fs-2 text-white">El contenido en esta página web no es información oficial del Gobierno de Estados Unidos y no representa las opiniones o las posiciones de la Agencia de Estados Unidos para el Desarrollo Internacional (USAID).</div>
+# <div class="bg-secondary p-2 text-white" style="font-size: 8pt;">El contenido en esta página web no es información oficial del Gobierno de Estados Unidos y no representa las opiniones o las posiciones de la Agencia de Estados Unidos para el Desarrollo Internacional (USAID).</div>
 
 ## Referencias
 
