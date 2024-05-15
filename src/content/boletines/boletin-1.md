@@ -117,7 +117,7 @@ En medio de la tragedia de miles de palestinos están siendo asesinados, a la ve
                 o a mi cuenta de Twitter: @GerardoJumi</div>
 </div>
 
-# <div class="bg-secondary p-2 text-white" style="font-size: 8pt;">El contenido en esta página web no es información oficial del Gobierno de Estados Unidos y no representa las opiniones o las posiciones de la Agencia de Estados Unidos para el Desarrollo Internacional (USAID).</div>
+
 
 ## Referencias
 
@@ -132,5 +132,7 @@ En medio de la tragedia de miles de palestinos están siendo asesinados, a la ve
 [^5]: Ministerio de Salud y Protección Social/Instituto Nacional de Salud./Instituto Colombiano de Bienestar Familiar. Boletín de Prensa No 04 de 2024, Disminuye la mortalidad por desnutrición aguda en niños y niñas menores de cinco años en el país. Disponible en: <a href="https://www.minsalud.gov.co/Paginas/Disminuye-la-mortalidad-por-desnutricion-aguda-en-ninos-y-ninas-menores-de-cinco-anos-en-el-pais.aspx" target="_blank">ver aquí</a>
 
 [^6]: Intervención de la Compañera Emberá Chami Directora de la Unidad para la Atención y Reparación Integral a las Víctimas Patricia Tobón ante la Corte Constitucional en la sesión técnica de la Sala Especial de Seguimiento a la Sentencia T-025 de 2004, 10 de mayo de 2024.
+
+# <div class="bg-secondary text-white" style="font-size: 12pt;">El contenido en esta página web no es información oficial del Gobierno de Estados Unidos y no representa las opiniones o las posiciones de la Agencia de Estados Unidos para el Desarrollo Internacional (USAID).</div>
 
 
