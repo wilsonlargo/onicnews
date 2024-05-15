@@ -120,7 +120,7 @@ En medio de la tragedia de miles de palestinos están siendo asesinados, a la ve
 
 
 
-## Referencias
+# Referencias
 
 [^1]: La planeación estratégica se enfocó en la implementación de la Ley de Gobierno Propio apoyándose en la revisión de los mandatos de los anteriores congresos y los estatutos de 2003 de ONIC protocolizados en la Cámara de Comercio.
 
