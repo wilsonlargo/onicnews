@@ -10,8 +10,9 @@ img: "/img/boletines/b1i1.png"
 
 # Editorial Planeación ONIC
 
-### 44 años de lucha del movimiento indígena colombiano, reflejados en la defensa de los territorios indígenas y la gestión del Buen Gobierno desde la ONIC. Un Buen Gobierno para Pervivir.
+### 44 años de lucha del movimiento indígena colombiano, luchando por la UNIDAD hacia un Buen Gobierno de la ONIC
 ---
+44 años defendiendo la autonomía indígena en Colombia, recordando la fuerza que tiene el movimiento indígena plural y unido.
 
 En el seno del resurgimiento del movimiento indígena Colombiano estructuramos hace 44 años la ONIC, la Consejería Secretaría General conforma el Sistema de Buen Gobierno donde se retoma el mandato 21 de la Ley de Gobierno Propio, en tanto es fundamental para orientar y dirigir efectivamente nuestras luchas por la Pervivencia física y cultural de nuestros Sistemas de Gobierno.
 
@@ -27,10 +28,10 @@ En esta entrega del Boletín Informativo del Sistema de Buen Gobierno se informa
 
 # Actualidad de los Pueblos indígenas de Colombia
  
-### Los Pueblos Originarios de Colombia nos movilizamos el 1 de mayo por un mejor mañana.
+### Los Pueblos Originarios de Colombia nos movilizamos el 1 de mayo, por respeto y ejercicio de nuestros derechos.
 ----
 
-Los Pueblos Originarios de Colombia participamos masivamente a nivel nacional en apoyo al Día Internacional de los trabajadores, recordando al Estado en sus tres ramas del poder la superación del racismo institucional.
+Los Pueblos Originarios de Colombia participamos a nivel nacional en apoyo al Día Internacional de los trabajadores, recordando al Estado la superación del racismo institucional.
 
 Los Pueblos Originarios de Colombia participamos en apoyo a las marchas que se hacen en conmemoración del Día Internacional de los Trabajadores y nos unimos en apoyo a los cambios estructurales del presente Mandato Popular concertado.
 
@@ -52,10 +53,10 @@ Esperamos de la Fiscalía General de la Nación, en cabeza de la Sra. Luz Adrian
 
 # Avances del Programa Juntanza Étnica en ONIC
 
-### ONIC y ACDI VOCA unen esfuerzos en proyecto para empoderar a comunidades indígenas en Colombia
+###  "ONIC y ACDI VOCA unen esfuerzos en proyecto para empoderar a comunidades indígenas en Colombia"
 ---
 
-La cooperación americana colabora en el proyecto de empoderamiento de la ONIC como Autoridad Nacional de Gobierno Indígena, fortaleciendo capacidades y promoviendo autonomía con sus organizaciones filiales en los territorios donde se ha priorizado la inversión en el marco del Acuerdo Final de Paz del año 2016.
+USAID apoya proyecto de empoderamiento de la ONIC como Autoridad Nacional de Gobierno Indígena, fortaleciendo capacidades y promoviendo autonomía con sus organizaciones filiales en los territorios.
 
 ![Imagen.](./images/b1i4.png)
 <span class="img-sub">Tabla 1: Organizaciones y comunidades con las que se relaciona el proyecto de Empoderamiento de la ONIC en el marco del programa Juntanza Étnica.</span>
