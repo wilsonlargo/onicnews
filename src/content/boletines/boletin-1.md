@@ -71,36 +71,32 @@ La consejería de Planeación, Administración y Finanzas lidera las líneas de 
 ![Imagen](./images/b1i5.png)
 <span class="img-sub">Fotografía: Participación de la ONIC en la Exposición de Cafes de Colombia Expo 2023 con su marca Semilla Nativa. Fuente: Instagram @semillanativa_indigena</span>
 
-La consejería de Planeación, Administración y Finanzas lidera las líneas de fortalecimiento organizativo a través de la aplicación del Índice de Capacidades a Organizaciones Étnicas - ICOE y la línea de Economías Propias, así mismo lleva actividades relacionadas con el seguimiento administrativo y presupuestal del proyecto. Sus principales avances son:
+- Fortalecimiento a 18 organizaciones, cabildos y resguardos indígenas, brindando transferencia de conocimientos y asesoría en administración propia, temáticas en economías propias, enfoque de mujer, control territorial, comunicaciones, entre otros; con la finalidad de aportar a sus capacidades administrativas, técnicas y financieras, para una mayor gestión de consecución de los recursos desde los territorios.
 
-- ...
-Fortalecimiento a 18 organizaciones, cabildos y resguardos indígenas, brindando transferencia de conocimientos y asesoría en administración propia, temáticas en economías propias, enfoque de mujer, control territorial, comunicaciones, entre otros; con la finalidad de aportar a sus capacidades administrativas, técnicas y financieras, para una mayor gestión de consecución de los recursos desde los territorios.
+- Diagnóstico de la forma en que los Pueblos Indígenas pensamos y sentimos nuestras economías propias y la soberanía alimentaria mediante diálogo de saberes. Además, se realizó el registro y caracterización de 334 unidades económicas o de emprendimiento de los territorios focalizados en el proyecto. También se construyó los contenidos de las capacitaciones de fortalecimiento comercial, y producción de abonos orgánicos como herramienta del fortalecimiento de la soberanía alimentaria.
 
-Diagnóstico de la forma en que los Pueblos Indígenas pensamos y sentimos nuestras economías propias y la soberanía alimentaria mediante diálogo de saberes. Además, se realizó el registro y caracterización de 334 unidades económicas o de emprendimiento de los territorios focalizados en el proyecto. También se construyó los contenidos de las capacitaciones de fortalecimiento comercial, y producción de abonos orgánicos como herramienta del fortalecimiento de la soberanía alimentaria.
-
-En términos administrativos, desde esta consejería se desarrolla el seguimiento y entrega de los productos técnicos en el marco del convenio, así como de la efectiva ejecución financiera del mismo, logrando que la implementación del proyecto a la fecha esté cumpliendo con los requerimientos técnicos para ser presentados al cooperante según sus solicitudes.
+- En términos administrativos, desde esta consejería se desarrolla el seguimiento y entrega de los productos técnicos en el marco del convenio, así como de la efectiva ejecución financiera del mismo, logrando que la implementación del proyecto a la fecha esté cumpliendo con los requerimientos técnicos para ser presentados al cooperante según sus solicitudes.
 
 ![Imagen](./images/b1i6.png)
 <span class="img-sub">Fotografía: Altar a las Semillas Nativas de los 10 resguardos indígenas accionante de la Tutela contra el Ministerio de Agricultura por daños irreversibles a los maíces nativos por contaminación transgénica.</span>
 
 La Consejería Secretaría General lidera la línea de Construcción de Paz Territorial y Diplomacia Indígena, Comunicación y Gestión del Riesgo. Sus principales avances son:
 
-Desarrollar la convocatoria para incorporar a los jóvenes indígenas líderes en la recepción de seis módulos que desarrollaran las competencias y habilidades en la incidencia política y el uso de medios de comunicación para el desarrollo de sus liderazgos actualizando los debates y asumiendo desde los jóvenes las agendas a posicionar con las instancia de gobierno. Se ha desarrollado una estrategia para mejorar el rendimiento de las  redes sociales de la ONIC y así acompañar mediáticamente la incidencia política de la ONIC
+- Desarrollar la convocatoria para incorporar a los jóvenes indígenas líderes en la recepción de seis módulos que desarrollaran las competencias y habilidades en la incidencia política y el uso de medios de comunicación para el desarrollo de sus liderazgos actualizando los debates y asumiendo desde los jóvenes las agendas a posicionar con las instancia de gobierno. Se ha desarrollado una estrategia para mejorar el rendimiento de las  redes sociales de la ONIC y así acompañar mediáticamente la incidencia política de la ONIC.
 
 ![Imagen](./images/b1i7.png)
 <span class="img-sub">Fotografía: Participación de la ONIC en la movilización del 27 de septiembre de 2023.</span>
 
-Fortalecer a la ONIC desarrollando un aplicativo para la ONIC que permita el seguimiento y evaluación del Plan Estratégico de la ONIC el cual ha permitido desarrollar la línea de Buen Gobierno a cargo de la Consejería Secretaría General, al momento se tiene el aplicativo en prueba para entrega al Consejo Mayor de Gobierno y la producción del Informativo de Buen Gobierno.
+- Fortalecer a la ONIC desarrollando un aplicativo para la ONIC que permita el seguimiento y evaluación del Plan Estratégico de la ONIC el cual ha permitido desarrollar la línea de Buen Gobierno a cargo de la Consejería Secretaría General, al momento se tiene el aplicativo en prueba para entrega al Consejo Mayor de Gobierno y la producción del Informativo de Buen Gobierno.
 
-Realización de la fase de relacionamiento y despliegue en territorio para el avance en la fase de aplicación de herramientas para la recolección de información en campo de la línea de Gestión del Riesgo Indígena. Se han entregado avances de los productos: i. Construcción de panoramas en riesgo para cada organización indígena, ii. Metodología para articular acciones de prevención protección y manejo de desastres con entidades territoriales priorizadas, iii. Propuesta para la creación del fondo de emergencias. Se realizó la cartografía para el mapeo e identificación de comunidades en riesgo, amenazas naturales existentes, componente cambio climático y mapas de localización de cada organización filial.
+- Realización de la fase de relacionamiento y despliegue en territorio para el avance en la fase de aplicación de herramientas para la recolección de información en campo de la línea de Gestión del Riesgo Indígena. Se han entregado avances de los productos: i. Construcción de panoramas en riesgo para cada organización indígena, ii. Metodología para articular acciones de prevención protección y manejo de desastres con entidades territoriales priorizadas, iii. Propuesta para la creación del fondo de emergencias. Se realizó la cartografía para el mapeo e identificación de comunidades en riesgo, amenazas naturales existentes, componente cambio climático y mapas de localización de cada organización filial.
 
-La Consejería de Mujer, Familia y Generación tiene a su cargo las líneas de Empoderamiento a las Mujeres indígenas y el de empoderamiento cultural. La Consejería definió la estrategía Tejiendo Redes para la cultura y unidad de las Mujeres Indígenas, son 7 módulos de trabajo que se impartirán de manera virtual y desarrollaran los temas de: Liderazgo, Derechos de las Mujeres Indígenas y Prevención de Desarmonías, el proceso dará inicio en el mes de mayo.
+- La Consejería de Mujer, Familia y Generación tiene a su cargo las líneas de Empoderamiento a las Mujeres indígenas y el de empoderamiento cultural. La Consejería definió la estrategía Tejiendo Redes para la cultura y unidad de las Mujeres Indígenas, son 7 módulos de trabajo que se impartirán de manera virtual y desarrollaran los temas de: Liderazgo, Derechos de las Mujeres Indígenas y Prevención de Desarmonías, el proceso dará inicio en el mes de mayo.
 
 ![Imagen](./images/b1i8.png)
 <span class="img-sub">Fotografía: Imagen de la estrategía Tejiendo Redes para la cultura y unidad de las Mujeres Indígenas de la Consejería Mujer, Familia y Generación.</span>
 
 Es importante resaltar que la ONIC ha logrado mediante este proyecto fortalecer y llegar a sus Organizaciones filiales, trabajando conjuntamente, desarrollando los mandatos del X congreso y haciendo uso de las herramientas tecnológicas fortaleciendo a la ONIC como Autoridad Nacional de Gobierno Indígena. 
-
 
 
 # Publicaciones del Consejero Jaizareama Gerardo Jumi
