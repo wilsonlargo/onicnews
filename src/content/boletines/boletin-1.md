@@ -119,7 +119,7 @@ En medio de la tragedia de miles de palestinos están siendo asesinados, a la ve
 
 # <div class="bg-secondary p-2 fs-2 text-white">El contenido en esta página web no es información oficial del Gobierno de Estados Unidos y no representa las opiniones o las posiciones de la Agencia de Estados Unidos para el Desarrollo Internacional (USAID).</div>
 
-# Referencias
+## Referencias
 
 [^1]: La planeación estratégica se enfocó en la implementación de la Ley de Gobierno Propio apoyándose en la revisión de los mandatos de los anteriores congresos y los estatutos de 2003 de ONIC protocolizados en la Cámara de Comercio.
 
