@@ -40,8 +40,24 @@ const { Content, headings } = await entry.render();
 
 <style lang="scss" is:global>
   @import 'bootstrap/scss/bootstrap.scss';
+  @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
 
   .content {
+    .data-footnote-backref {
+        text-decoration: none;
+        color: #000;
+        position: absolute;
+
+        &::after {
+          content: "\F138";
+          justify-content: flex-end;
+          font-family: "bootstrap-icons";
+          position: relative;
+          bottom: 0em;
+          left: 0.3em;
+        }
+    }
+
     img {
       @extend .img-fluid;
       @extend .mx-auto;
