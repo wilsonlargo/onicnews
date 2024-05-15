@@ -117,6 +117,8 @@ En medio de la tragedia de miles de palestinos están siendo asesinados, a la ve
                 o a mi cuenta de Twitter: @GerardoJumi</div>
 </div>
 
+# <div class="bg-secondary p-2 fs-2 text-white">El contenido en esta página web no es información oficial del Gobierno de Estados Unidos y no representa las opiniones o las posiciones de la Agencia de Estados Unidos para el Desarrollo Internacional (USAID).</div>
+
 # Referencias
 
 [^1]: La planeación estratégica se enfocó en la implementación de la Ley de Gobierno Propio apoyándose en la revisión de los mandatos de los anteriores congresos y los estatutos de 2003 de ONIC protocolizados en la Cámara de Comercio.
@@ -132,4 +134,3 @@ En medio de la tragedia de miles de palestinos están siendo asesinados, a la ve
 [^6]: Intervención de la Compañera Emberá Chami Directora de la Unidad para la Atención y Reparación Integral a las Víctimas Patricia Tobón ante la Corte Constitucional en la sesión técnica de la Sala Especial de Seguimiento a la Sentencia T-025 de 2004, 10 de mayo de 2024.
 
 
-# <div class="bg-secondary p-2 fs-2">El contenido en esta página web no es información oficial del Gobierno de Estados Unidos y no representa las opiniones o las posiciones de la Agencia de Estados Unidos para el Desarrollo Internacional (USAID).</div>
