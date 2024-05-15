@@ -1,7 +1,7 @@
 ---
 index: 1
 titulo: "El Buen Gobierno de la ONIC: condición para la UNIDAD y la PERVIVENCIA"
-short: "44 años de lucha"
+short: "El Buen Gobierno de la ONIC"
 vigencia: 2024
 mes: "Mayo"
 tags: "Lucha, Movimiento, Gobierno, Pervivir"
