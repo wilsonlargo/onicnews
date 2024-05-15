@@ -1,7 +1,7 @@
 ---
 index: 1
 titulo: "El Buen Gobierno de la ONIC: condición para la UNIDAD y la PERVIVENCIA"
-short: "44 años de lucha"
+short: "El Buen Gobierno de la ONIC"
 vigencia: 2024
 mes: "Mayo"
 tags: "Lucha, Movimiento, Gobierno, Pervivir"
@@ -108,7 +108,13 @@ El Informe del Observatorio de Derechos Humanos de los Pueblos Indígenas de la 
 
 #### Raíces del genocidio: Gaza y territorios indígenas
 ---
-En medio de la tragedia de miles de palestinos están siendo asesinados, a la vez existen múltiples genocidios contra nuestros Pueblos indígenas en Colombia, en común tienen el interés económico que brindan las riquezas de estos territorios y lo incómodo que pueden ser las comunidades locales. Se resalta la lucha del gran Kimy Pernía por defender el Río Sinú, territorio de los Emberá Katio, y el desenlace fatídico de su defensa en manos del paramilitar Salvatore Mancuso. De todas maneras la resistencia persiste y la solidaridad entre pueblos también, el llamado es a realizar la economía propia del buen vivir. <a href="https://revistaraya.com/gerardo-jumi/598-raices-del-genocidio-gaza-y-territorios-indigenas.html" target="_blank">ver aquí</a> 
+En medio de la tragedia de miles de palestinos están siendo asesinados, a la vez existen múltiples genocidios contra nuestros Pueblos indígenas en Colombia, en común tienen el interés económico que brindan las riquezas de estos territorios y lo incómodo que pueden ser las comunidades locales. Se resalta la lucha del gran Kimy Pernía por defender el Río Sinú, territorio de los Emberá Katio, y el desenlace fatídico de su defensa en manos del paramilitar Salvatore Mancuso. De todas maneras la resistencia persiste y la solidaridad entre pueblos también, el llamado es a realizar la economía propia del buen vivir. <a href="https://revistaraya.com/gerardo-jumi/598-raices-del-genocidio-gaza-y-territorios-indigenas.html" target="_blank">ver aquí</a>
+
+<div class="bg-success text-white p-2 mt-2 mb-2 ps-3">
+            <div class="text-center"> Si quieres, puedes reenviar este boletín a tus contactos o decirles que se apunten
+                <a href="#" class="text-white">aquí</a>. Puedes escribirme con ideas, comentarios y sugerencias a sistemabuengobierno@onic.org.co
+                o a mi cuenta de Twitter: @GerardoJumi</div>
+</div>
 
 # Referencias
 
@@ -124,8 +130,4 @@ En medio de la tragedia de miles de palestinos están siendo asesinados, a la ve
 
 [^6]: Intervención de la Compañera Emberá Chami Directora de la Unidad para la Atención y Reparación Integral a las Víctimas Patricia Tobón ante la Corte Constitucional en la sesión técnica de la Sala Especial de Seguimiento a la Sentencia T-025 de 2004, 10 de mayo de 2024.
 
-<div class="bg-success text-white p-2 mt-2 mb-2 ps-3">
-            <div class="text-center"> Si quieres, puedes reenviar este boletín a tus contactos o decirles que se apunten
-                <a href="#" class="text-white">aquí</a>. Puedes escribirme con ideas, comentarios y sugerencias a sistemabuengobierno@onic.org.co
-                o a mi cuenta de Twitter: @GerardoJumi</div>
-        </div>
+

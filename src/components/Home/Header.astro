@@ -1,0 +1,77 @@
+---
+const boletines = await Astro.glob("@src/content/boletines/*.md");
+---
+
+<header class="sticky-top">
+    <nav class="navbar navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#" data-bs-toggle="offcanvas" data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling" onclick="leer_boletines()">
+                            <i class="bi bi-bookmarks"></i>
+                            <span>Boletines</span>
+                        </a>
+                    </li>
+
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="buscar" aria-label="buscar">
+                    <button class="btn btn-outline-secondary" type="submit">Buscar</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+<div class="offcanvas offcanvas-start shadow" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1"
+    id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
+    <div class="offcanvas-header bg-org-gris text-white">
+        <h5 class="offcanvas-title " id="offcanvasScrollingLabel">Lista de noticias</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close">
+
+        </button>
+    </div>
+    <div class="offcanvas-body">
+        <div class="list-group" id="lstBoletines">
+            {
+                boletines.map(boletin => (
+                    <a class="navbar-brand mt-2 border rounded px-4 py-3 link-boletin fs-6" href={`/boletines/boletin-${boletin.frontmatter.index}`}>
+
+                        <div class="d-flex justify-content-between mb-1">
+                            <strong>Boletín {boletin.frontmatter.index}, {boletin.frontmatter.mes}</strong>
+                            <span class="badge text-bg-secondary rounded-pill">{boletin.frontmatter.vigencia}</span>
+                        </div>
+
+                        <span class="text-break">{boletin.frontmatter.titulo}</span>
+
+                    </a>
+                ))
+            }
+        </div>
+    </div>
+</div>
+
+<style lang="scss">
+    .link-boletin {
+        text-align: justify;
+        text-justify: inter-word;
+        text-wrap: wrap;
+
+        .badge {
+            display:inline-block;
+            
+            height:min-content;
+            display: block;
+            white-space:nowrap;
+        }
+    }
+
+</style>
