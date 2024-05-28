@@ -1,14 +1,25 @@
 ---
 index: 1
-titulo: "El Buen Gobierno de la ONIC: condición para la UNIDAD y la PERVIVENCIA"
-short: "El Buen Gobierno de la ONIC"
+titulo: "ONIC Casa grande de los Pueblos Originarios de Colombia; 44 años de Buen Gobierno tejiendo unidad, territorio, cultura y autonomía"
+short: "ONIC Casa grande de los Pueblos Originarios de Colombia;"
 vigencia: 2024
 mes: "Mayo"
-tags: "Lucha, Movimiento, Gobierno, Pervivir"
+tags: "Buen Gobierno, Movilización, Mandato Popular, Racismo institucional, Derechos de los Pueblos Indígenas."
 img: "/img/boletines/b1i1.png"
 ---
 
 # Editorial
+### Introducción
+En esta entrega del Boletín Informativo de Buen Gobierno se informará sobre los 44 años de la
+ONIC, la movilización del primero de mayo, los avances del programa Juntanza Étnica y las
+columnas de opinión del Consejero Jaizareama Gerardo Jumi.
+
+La ONIC saluda de manera fraterna a los lectores de este Boletín esperando que su contenido les
+sea útil para sus procesos internos y les recuerde que la ONIC tiene la esperanza en la consolidación
+de un movimiento indígena plural y unido que impulse el cumplimiento de la estrofa de su himno que
+expresa: “Con la fuerza de un pensar diverso resplandece orgullosa la ONIC, y retoma el luchar de mi
+ancestro que nos lleva a un próspero vivir...”.
+
 
 ### 44 años de lucha del movimiento indígena colombiano, luchando por la UNIDAD hacia un Buen Gobierno de la ONIC
 ---
@@ -30,7 +41,7 @@ En ese sentido la Consejería Secretaría General crea y dinamiza el Sistema de 
 En esta entrega del Boletín Informativo del Sistema de Buen Gobierno se informará sobre los avances en la adopción del Plan Estratégico de la ONIC por el Consejo Mayor de Gobierno, la movilización de la ONIC en el marco del primero de Mayo Dia Internacional de los Trabajadores, avances del programa Juntanza Étnica en la ONIC y se relacionan las columnas de opinión del Consejero Jaizareama Gerardo Jumi. Para nuestros lectores que el contenido que encuentre en estas letras recuerden la fuerza y la esperanza que tenemos en un movimiento indígena plural y unido, como lo menciona el coro de nuestro glorioso himno: “Con la fuerza de un pensar diverso resplandece orgullosa la ONIC, y retoma el luchar de mi ancestro que nos lleva a un próspero 
 vivir…”.
 
-# Actualidad de los Pueblos indígenas de la ONIC
+# Actualidad de los Pueblos Indígenas de Colombia
  
 ### Los Pueblos Originarios de Colombia nos movilizamos el 1 de mayo, por respeto y ejercicio de nuestros derechos.
 ----
@@ -53,7 +64,7 @@ Somos gente de Minga y de movilización, es parte de nuestra naturaleza colectiv
 
 
 
-# Avances del Programa Juntanza Étnica en ONIC
+# Avances del programa Juntanza Étnica en ONIC
 
 ###  "ONIC y ACDI VOCA unen esfuerzos en proyecto para empoderar a comunidades indígenas en Colombia"
 ---
