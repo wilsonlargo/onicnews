@@ -10,6 +10,7 @@ img: "/img/boletines/b1i1.png"
 
 # Editorial
 ### Introducción
+---
 En esta entrega del Boletín Informativo de Buen Gobierno se informará sobre los 44 años de la
 ONIC, la movilización del primero de mayo, los avances del programa Juntanza Étnica y las
 columnas de opinión del Consejero Jaizareama Gerardo Jumi.
@@ -21,32 +22,69 @@ expresa: “Con la fuerza de un pensar diverso resplandece orgullosa la ONIC, y 
 ancestro que nos lleva a un próspero vivir...”.
 
 
-### 44 años de lucha del movimiento indígena colombiano, luchando por la UNIDAD hacia un Buen Gobierno de la ONIC
+### ONIC Casa grande de los Pueblos Originarios de Colombia; 44 años de Buen Gobierno
 ---
-En el seno del resurgimiento del movimiento indígena Colombiano estructuramos hace 44 años la ONIC, la Consejería Secretaría General conforma el Sistema de Buen Gobierno donde se retoma el mandato 21 de la Ley de Gobierno Propio, en tanto es fundamental para orientar y dirigir efectivamente nuestras luchas por la Pervivencia física y cultural de nuestros Sistemas de Gobierno. 
+La Organización Nacional Indígena de Colombia (ONIC) y sus 54 organizaciones regionales filiales
+conmemoramos 44 años de existencia, la siembra realizada y el resurgimiento del movimiento indígena colombiano tras su constitución.
 
 ![Imagen](./images/b1i2.png)
 <span class="img-sub">Fotografía: Asamblea Nacional de Autoridades Indígenas de la ONIC, abril de 2024</span>
 
-Reconocemos el legado y el papel histórico que como Pueblos Originarios caminamos en las rutas trazadas en nuestros relatos de origen para defender nuestros territorios. Es así que en el seno del resurgimiento del movimiento indígena Colombiano estructuramos hace 44 años la ONIC desde el saber acumulado: en el origen del tiempo, en nuestras comunidades y organizaciones para la pervivencia de nuestros Pueblos en medio de las difíciles situaciones de conflicto armado, de racismo estructural y de colonialismo intelectual que amenaza permanente con nuestra extinción.
+Durante este caminar, la ONIC ha logrado consolidarse como Autoridad Nacional de Gobierno
+Indígena y un referente de buen gobierno por su capacidad demostrada para liderar y acompañar a
+los Pueblos Indígenas en sus distintos procesos que han favorecido la unidad, el territorio, la cultura y
+la autonomía como estrategias de resistencia, pervivencia, paz y buen vivir. También, por la claridad
+de su plataforma de lucha, el fortalecimiento constante de las capacidades de sus 10 Consejerías, el
+trabajo permanente de las organizaciones regionales y las comunidades de base, la implementación
+de los mandatos estatutarios[^1] y políticos expresados en los Congresos Nacionales de los Pueblos
+Indígenas y la Ley de Gobierno Propio que se generó en dos periodos de gobierno (2012 - 2021),
+asimismo, ha logrado consolidarse como referente de buen gobierno por el aporte valiente de cada
+uno de nuestros ancestros, ancestras, sabios, sabias, médicos tradicionales, mujeres, niños, niñas,
+jóvenes, hombres, guardias, líderes, lideresas, consejeros y consejeras que han representado a los
+Pueblos Indígenas que se encuentran bajo la cobertura de la ONIC.
 
-Reconocemos el legado y el papel histórico que como Pueblos Originarios caminamos en las rutas trazadas en nuestros relatos de origen para defender nuestros territorios. Es así que en el seno del resurgimiento del movimiento indígena Colombiano estructuramos hace 44 años la **ONIC** desde el saber acumulado: en el origen del tiempo, en nuestras comunidades y organizaciones para la pervivencia de nuestros Pueblos en medio de las difíciles situaciones de conflicto armado, de racismo estructural y de colonialismo intelectual que amenaza permanente con nuestra extinción. 
+Los anteriores resultados se han logrado en medio de difíciles situaciones generadas por el conflicto
+armado, el racismo estructural, el colonialismo intelectual y la renuencia de varios gobiernos a la
+aplicación de la Constitución Política de 1991 y de instrumentos internacionales como el Convenio
+169 de la OIT a favor de los derechos de los Pueblos Indígenas. Si bien este camino recorrido por la
+ONIC no ha sido fácil, se ha recorrido con la convicción de que toda buena semilla sembrada dará
+frutos a favor de la materialización de los derechos de nuestros 115 Pueblos Indígenas.
+Este tejido de 44 años ha dejado a la ONIC un acumulado de aprendizajes, saberes, legados,
+resultados positivos y nuevos retos por afrontar, entre estos: Aumento de la autonomía económica de
+los Pueblos Indígenas para que transiten hacia una real autonomía política y puesta en marcha de
+acciones concretas dirigidas a impulsar el regreso al orígen, la protección de los sistemas de
+conocimientos ancestrales, la sistematización de la memoria organizativa, la materialización de los
+derechos de la la Madre Tierra y la ejecución del Plan Estratégico de la ONIC como marco rector que
+orientará sus acciones para dar cumplimiento al conjunto de mandatos estatutarios y políticos
+recibidos por sus autoridades.
 
-Es connatural a nosotros como Pueblos Originarios repensarnos, asumir los aprendizajes y redireccionar nuestra acción organizativa, prueba de ello es la gestación de la Ley de Gobierno Propio de la ONIC que se produjo en dos periodos de gobierno entre el año 2012-2021 y fue en el X Congreso de los Pueblos Indígenas de la ONIC que se refrendó este acuerdo procurando siempre por la **UNIDAD** de los Pueblos Indígenas de Colombia sabiendo la fuerza de un movimiento indígena diverso pero unido para **PERVIVIR**. La Consejería Secretaría General retoma el mandato 21 Buen Gobierno de la Ley de Gobierno Propio ya que es fundamental para la ONIC fortalecer y dirigir los esfuerzos efectivamente a la par que se evidencia su gestión de manera transparente y se incorporan los códigos de ética y control social donde prime la construcción de acuerdos sociales para que prevalezca el interés colectivo sobre el individual garantizando así la vida, los territorios y los sistemas de pensamiento y gobierno para nuestras semillas de vida y el equilibrio de la Madre Tierra como casa de todos.
+Así entonces, la conmemoración de los primeros 44 años de la ONIC es una oportunidad histórica
+para repensarnos, proyectarnos, redireccionar nuestra acción organizativa y reconocer que
+seguiremos caminando la palabra de vida y fortaleciendo nuestras capacidades para estar cada vez
+más cerca de las comunidades y las organizaciones regionales para que así se materialice el lema
+“la ONIC es el sol que alumbra para todos”, lo anterior, como apuesta de buen gobierno de
+conformidad a los mandatos 7 y 21 de la Ley de Gobierno Propio.
 
+Finalmente, debemos trabajar más para contribuir significativamente a mejorar las condiciones de
+buen vivir de los Pueblos y Naciones Indígenas de Colombia que anhelan volver al origen, que lata
+más fuerte el corazón de la lucha indígena y que la ONIC se siga fortaleciendo como la casa grande,
+la casa de todos. Sin duda el cumplimiento de esta tarea se logrará en la medida en que todos los
+que hacemos parte de la ONIC contribuyamos a la consolidación, el fortalecimiento, la dinamización
+e implementación de un Sistema de Buen Gobierno que favorezca a las 5 macro regionales e
+impulse tanto la unidad en medio de la diferencias como la valoración de los aportes y avances
+construidos conjuntamente con las organizaciones regionales y las comunidades de bases.
 
-En ese sentido la Consejería Secretaría General crea y dinamiza el Sistema de Buen Gobierno para que apoye la función directiva del Consejo Mayor de Gobierno y de la Asamblea Nacional de Autoridades dando lugar a la sistematización y seguimiento de la Planeación Estratégica de la **ONIC**[^1] sistematizando la Memoria Institucional y brindando información actualizada del ámbito político que atañe a los Pueblos Indígenas especialmente en el orden nacional e internacional.
-
-
-En esta entrega del Boletín Informativo del Sistema de Buen Gobierno se informará sobre los avances en la adopción del Plan Estratégico de la ONIC por el Consejo Mayor de Gobierno, la movilización de la ONIC en el marco del primero de Mayo Dia Internacional de los Trabajadores, avances del programa Juntanza Étnica en la ONIC y se relacionan las columnas de opinión del Consejero Jaizareama Gerardo Jumi. Para nuestros lectores que el contenido que encuentre en estas letras recuerden la fuerza y la esperanza que tenemos en un movimiento indígena plural y unido, como lo menciona el coro de nuestro glorioso himno: “Con la fuerza de un pensar diverso resplandece orgullosa la ONIC, y retoma el luchar de mi ancestro que nos lleva a un próspero 
-vivir…”.
+La ONIC mira el futuro con esperanza y ratifica que seguirá luchando hasta que se apague el sol; en
+consecuencia, redoblará esfuerzos para el cumplimiento de los mandatos recibidos por sus
+autoridades para consolidarse como el sol que alumbra para todos.
 
 # Actualidad de los Pueblos Indígenas de Colombia
  
-### Los Pueblos Originarios de Colombia nos movilizamos el 1 de mayo, por respeto y ejercicio de nuestros derechos.
+### Los Pueblos Originarios de Colombia nos movilizamos el 1 de mayo
 ----
 
-Los Pueblos Originarios de Colombia participamos en apoyo a las marchas que se hacen en conmemoración del Día Internacional de los Trabajadores y nos unimos en apoyo a los cambios estructurales del presente Mandato Popular concertado.
+La ONIC y parte de nuestros Pueblos Originarios y las guardias indígenas (de Norte a Sur y de Oriente a Occidente desde la Alta Guajira pasando por Valledupar, Cali, Popayán, Pereira, Ibagué, Neiva y Saravena) nos hicimos partícipes de las movilizaciones que se realizaron en Colombia en conmemoración del primero de mayo Día Internacional de los Trabajadores, exigiendo mejores condiciones y estabilidad laboral para los trabajadores que tanto han aportado a la construcción de
+un mejor país.
 
 Nos movilizamos de Norte a Sur, de Oriente a Occidente en el territorio nacional, desde la Alta Guajira, Valledupar, Cali, Popayán, Pereira, Ibagué, Neiva y Saravena, y en nuestros espacios sagrados, porque estamos convencidos que es hora de transitar a un mandato popular que le cumpla a los Pueblos Originarios, ya que somos elementos esenciales en las transformaciones del país, asumimos el mandato de ser como el Sol: alumbrar para todos, y seguir luchando hasta que se apague el Sol.
 
@@ -132,6 +170,8 @@ En medio de la tragedia de miles de palestinos están siendo asesinados, a la ve
 
 
 # Referencias
+
+[^1]:Estatutos de 2003 de la ONIC registrados en la Cámara de Comercio.
 
 [^1]: La planeación estratégica se enfocó en la implementación de la Ley de Gobierno Propio apoyándose en la revisión de los mandatos de los anteriores congresos y los estatutos de 2003 de ONIC protocolizados en la Cámara de Comercio.
 
