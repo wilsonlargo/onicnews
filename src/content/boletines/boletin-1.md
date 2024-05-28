@@ -93,45 +93,94 @@ el territorio nacional, afectando principalmente al Chocó con un 71% y al nodo 
 Cauca y Nariño con un 14,6% ante la presencia de la violencia armada ligada al control territorial
 para el desarrollo de economías ilegales. Sumado a ello sigue vigente la alta mortalidad infantil
 indígena a razón de la desnutrición, especialmente en los departamentos de Vichada, La Guajira y
-Chocó [^4]
+Chocó [^4].
 
-Marchamos apoyando las reformas sociales porque ese ha sido un mandato popular que concertamos entre el Gobierno Nacional y el Gobierno Indígena. Para la ONIC los acuerdos y alcances que concertamos en el Plan Nacional de Desarrollo: Colombia Potencia Mundial de la Vida deben de ser implementados con celeridad, los acuerdos de consulta en las reformas a la Salud y Educación y Víctimas Indígenas deben de ser implementados vía legislativa o ejecutiva con urgencia para la puesta en marcha del i) Sistema de Educación Indígena Propio, ii) Sistema Indígena de Salud Propia e Intercultural y iii) los mecanismos de Autoprotección Colectivos, recordando los compromisos pendientes en la implementación del Capítulo Étnico del Acuerdo Final de Paz donde la adecuación institucional[^2] y los decretos de Autoridad Ambiental Indígenas están sobre la mesa para resolverse. Los mencionados y otros compromisos de Mingas son viejos acuerdos pactados de Gobierno a Gobierno y no han sido cumplidos adecuadamente por ninguno de los gobiernos antecesores al presente.
-
-Recordamos que nos encontramos en **Estado de Emergencia**, como lo declaramos desde el año 2019[^3], el cual no ha podido ser levantado pues las desarmonías y vulneraciones han empeorado desde ese tiempo, esto se constata en el primer informe de 2024 de la Consejería de Derechos de los Pueblos Indígenas, Derechos Humanos y Paz: Memoria de Vida y Armonías. Desde el 2016[^4] se registran 2335 casos con 174.612 víctimas indígenas, en todo el territorio nacional, las situaciones prevalecen en Chocó con un 71% y el nodo: Cauca, Valle del Cauca y Nariño con un 14,6%, estos casos son de especial atención en términos de presencia y permanencia de la violencia armada ligadas al control territorial para el desarrollo de economías ilegales. Sumado a ello las situaciones de mortalidad infantil y desnutrición afecta a nuestra semillas de vida (niños y niñas indígenas) especialmente en los departamentos de Vichada, La Guajira y Chocó[^5].
-
-Hacemos un llamado al poder judicial para garantizar Justicia y frenar urgentemente todas las prácticas de injusticia, racismo institucional y genocidio contra los Pueblos Originarios de Colombia. Existen muchas sentencias de la Corte Constitucional que ordenan acciones específicas a las instituciones para el goce efectivo de los Derechos de los Pueblos Indígenas las cuales hoy cuentan con un bajo cumplimiento, esto se debe en parte a la falta del desarrollo de los derechos estructurales consignados en la Constitución para Pueblos Indígenas y al déficit en el entendimiento de los Derechos étnicos por parte de las instituciones del Estado[^6]
-
-Esperamos de la Fiscalía General de la Nación, en cabeza de la Sra. Luz Adriana Camargo, procure por incorporar un direccionamiento con enfoque indígena para que las entidades de justicia a su cargo superen el alto grado de impunidad en los casos relacionados a población indígena, se investiguen los casos de corrupción en recursos del Estado que deben beneficiar a las poblaciones indígenas y se corrijan las prácticas de racismo institucional en las diferentes instancias del Estado.
-
-Ante los pronunciamientos públicos del exvicepresidente Santos contra la ONIC, días antes del 1 de mayo, el Consejero Jumi ha interpuesto una acción de tutela y una demanda penal por discriminación  solicitando además una rectificación de manera pública ante el uso de expresiones racistas, xenofobicas y discriminatorias que hostigan y ponen en peligro nuestras vidas. 
-
-Somos gente de Minga y de movilización, es parte de nuestra naturaleza colectiva y hace parte de nuestra esencia de ser Pueblos Originarios, de hecho, es nuestra estrategia milenaria y propia para pervivir y protegernos a partir de la cual hemos logrado exigir, denunciar, visibilizar, incidir y lograr el reconocimiento de nuestros derechos que van sobre los rieles de nuestros principios Territorio, Autonomía, Cultura y Unidad dirigidos a la reparación, restauración y ejercicio de nuestros Sistemas de Gobierno Propio.
+Bajo este panorama de movilizaciones realizadas el primero de mayo, es importante resaltar que las
+comunidades y organizaciones filiales a la ONIC participamos desde nuestra autonomía y
+particularidades culturales mediante diferentes formas de movilización: espiritual, cultural, simbólica,
+pedagógica y física desde las calles, tambos, malokas, bohíos, kankuruas, escuelas, parques, entre
+otros lugares. Lo anterior, en tanto nos asiste la certeza que la movilización y la minga no es ajena a
+nuestros Pueblos Indígenas, por el contrario, ha hecho parte de nuestra historia, lucha y esencia de
+ser indígena; de hecho, desde tiempos milenarios ha constituido nuestra estrategia legítima y propia
+para pervivir, proteger, exigir, denunciar, visibilizar, incidir y conquistar reivindicaciones y derechos como la autodeterminación, la autonomía, los territorios, los sistemas propios y la salvaguarda de
+nuestras culturas. Lo anterior, en coherencia con los mandatos de los Estatutos, los Congresos
+Nacionales de Pueblos Indígenas y la Ley de Gobierno Propio que exigen a la ONIC impulsar y
+participar activamente en procesos de movilización, actuar motivada por la solidaridad y fortalecer su
+relacionamiento con los distintos sectores sociales, populares y étnicos (Mandatos de la Ley de
+Gobierno Propio: 5.8 - Literales A / B / C, 15 - Literal C - y 16 Literales D / G / M).
 
 
 
 # Avances del programa Juntanza Étnica en ONIC
 
-###  "ONIC y ACDI VOCA unen esfuerzos en proyecto para empoderar a comunidades indígenas en Colombia"
+###  "ONIC y ACDI VOCA unen esfuerzos en un proyecto para empoderar a comunidades indígenas en Colombia"
 ---
 
 ![Segunda imagen](./images/b1i3.png)
 <span class="img-sub">Fotografía: Mujer Emberá Katió participante de la Asamblea Nacional de Autoridades Indígenas de la ONIC, abril de 2024.</span>
 
-La ONIC desde el año 2021 ha venido ajustando un modelo de trabajo colaborativo con la agencia ACDI VOCA de la USAID para desarrollar el programa Juntanza Étnica llegando al acuerdo en el año 2023 de desarrollar el Proyecto: Empoderamiento de los pueblos indígenas de la ONIC mediante el fortalecimiento organizativo, la diplomacia indígena, el impulso de las economías propias, la cultura y la atención al riesgo, en este proyecto participan activamente las Consejerías: i) Mujer, Familia y Generación, ii) Planeación, Administración y Finanzas, y, iii) Secretaría General. El desarrollo de este proyecto busca fortalecer las capacidades organizacionales de la ONIC para lograr una mayor incidencia política y una gestión efectiva de recursos que provienen de la Cooperación en todo el territorio nacional. Proyecto que llega a las organizaciones filiales de la ONIC en La Guajira, Chocó, Nariño, Valle del Cauca, Amazonas y Bogotá (Tabla 1).
+La ONIC desde el año 2021 ha venido adelantando un modelo de trabajo colaborativo con ACDI
+VOCA de la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID); gracias a ello
+en la actualidad se desarrolla el Proyecto: Empoderamiento de los pueblos indígenas de la ONIC
+mediante el fortalecimiento organizativo, la diplomacia indígena, el impulso de las economías propias,
+la cultura y la atención al riesgo, en el marco del Programa Juntanza Étnica.
+
+En este proyecto participan activamente las Consejerías: (i) Mujer, Familia y Generación, (ii)
+Planeación, Administración y Finanzas, y, (iii) Secretaría General. El desarrollo de este proyecto
+busca fortalecer las capacidades organizacionales de la ONIC para lograr una mayor incidencia
+política y una gestión efectiva de recursos que provienen de la cooperación internacional. Son
+beneficiarias del Proyecto las organizaciones filiales de la ONIC de La Guajira, Chocó, Nariño, Valle
+del Cauca, Amazonas y Bogotá que se relacionan en la siguiente tabla.
 
 ![Imagen.](./images/b1i4.png)
 <span class="img-sub">Tabla 1: Organizaciones y comunidades con las que se relaciona el proyecto de Empoderamiento de la ONIC en el marco del programa Juntanza Étnica.</span>
 
-La consejería de Planeación, Administración y Finanzas lidera las líneas de fortalecimiento organizativo a través de la aplicación del Índice de Capacidades a Organizaciones Étnicas - ICOE y la línea de Economías Propias, así mismo lleva actividades relacionadas con el seguimiento administrativo y presupuestal del proyecto. Sus principales avances son:
+Es importante resaltar que la ONIC ha logrado mediante este Proyecto fortalecer y llegar a sus
+organizaciones filiales, trabajando conjuntamente con estas para el desarrollo de los mandatos del X
+Congreso Nacional de Pueblos Indígenas y haciendo uso de las herramientas tecnológicas
+fortaleciendo a la ONIC como Autoridad Nacional de Gobierno Indígena.
+
+En el marco de este Proyecto, la Consejería de Mujer, Familia y Generación tiene a su cargo las
+líneas de: (i) Empoderamiento a las Mujeres Indígenas y; (ii) Empoderamiento Cultural. La Consejería
+definió la estrategía Tejiendo Redes para la Cultura y Unidad de las Mujeres Indígenas que se
+desarrollará a partir de 7 módulos de trabajo que se imparten desde mayo de manera virtual
+contemplando los siguientes temas: Liderazgo, Derechos de las Mujeres Indígenas y Prevención de
+Desarmonías.
 
 ![Imagen](./images/b1i5.png)
 <span class="img-sub">Fotografía: Participación de la ONIC en la Exposición de Cafes de Colombia Expo 2023 con su marca Semilla Nativa. Fuente: Instagram @semillanativa_indigena</span>
 
-- Fortalecimiento a 18 organizaciones, cabildos y resguardos indígenas, brindando transferencia de conocimientos y asesoría en administración propia, temáticas en economías propias, enfoque de mujer, control territorial, comunicaciones, entre otros; con la finalidad de aportar a sus capacidades administrativas, técnicas y financieras, para una mayor gestión de consecución de los recursos desde los territorios.
+- Fortalecimiento a 18 organizaciones, cabildos y
+resguardos indígenas, a partir de la
+transferencia de conocimientos y asesoría en
+administración propia, economías propias,
+enfoque de mujer, control territorial,
+comunicaciones, entre otros; con la finalidad de
+aportar a sus capacidades administrativas,
+técnicas y financieras, para una mayor gestión
+de recursos desde los territorios.
 
-- Diagnóstico de la forma en que los Pueblos Indígenas pensamos y sentimos nuestras economías propias y la soberanía alimentaria mediante diálogo de saberes. Además, se realizó el registro y caracterización de 334 unidades económicas o de emprendimiento de los territorios focalizados en el proyecto. También se construyó los contenidos de las capacitaciones de fortalecimiento comercial, y producción de abonos orgánicos como herramienta del fortalecimiento de la soberanía alimentaria.
+- Diagnóstico de la forma en que los Pueblos
+Indígenas pensamos y sentimos nuestras
+economías propias y la soberanía alimentaria
+mediante diálogo de saberes.
 
-- En términos administrativos, desde esta consejería se desarrolla el seguimiento y entrega de los productos técnicos en el marco del convenio, así como de la efectiva ejecución financiera del mismo, logrando que la implementación del proyecto a la fecha esté cumpliendo con los requerimientos técnicos para ser presentados al cooperante según sus solicitudes.
+- Registro y caracterización de 334 unidades
+económicas o de emprendimiento de los
+territorios focalizados en el Proyecto.
+
+- Construcción de los contenidos de las
+capacitaciones de fortalecimiento comercial y
+producción de abonos orgánicos como
+herramienta para el fortalecimiento de la
+soberanía alimentaria.
+
+- Desarrollo de seguimiento a la entrega de los
+productos técnicos en el marco del convenio,así como de la efectiva ejecución financiera del
+mismo, para garantizar que la implementación
+del Proyecto cumpla con los requerimientos
+técnicos para ser presentados al cooperante
+según sus solicitudes.
 
 ![Imagen](./images/b1i6.png)
 <span class="img-sub">Fotografía: Altar a las Semillas Nativas de los 10 resguardos indígenas accionante de la Tutela contra el Ministerio de Agricultura por daños irreversibles a los maíces nativos por contaminación transgénica.</span>
