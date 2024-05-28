@@ -30,39 +30,15 @@ conmemoramos 44 años de existencia, la siembra realizada y el resurgimiento del
 ![Imagen](./images/b1i2.png)
 <span class="img-sub">Fotografía: Asamblea Nacional de Autoridades Indígenas de la ONIC, abril de 2024</span>
 
-Durante este caminar, la ONIC ha logrado consolidarse como Autoridad Nacional de Gobierno
-Indígena y un referente de buen gobierno por su capacidad demostrada para liderar y acompañar a
-los Pueblos Indígenas en sus distintos procesos que han favorecido la unidad, el territorio, la cultura y
-la autonomía como estrategias de resistencia, pervivencia, paz y buen vivir. También, por la claridad
-de su plataforma de lucha, el fortalecimiento constante de las capacidades de sus 10 Consejerías, el
-trabajo permanente de las organizaciones regionales y las comunidades de base, la implementación
-de los mandatos estatutarios[^1] y políticos expresados en los Congresos Nacionales de los Pueblos
-Indígenas y la Ley de Gobierno Propio que se generó en dos periodos de gobierno (2012 - 2021),
-asimismo, ha logrado consolidarse como referente de buen gobierno por el aporte valiente de cada
-uno de nuestros ancestros, ancestras, sabios, sabias, médicos tradicionales, mujeres, niños, niñas,
-jóvenes, hombres, guardias, líderes, lideresas, consejeros y consejeras que han representado a los
-Pueblos Indígenas que se encuentran bajo la cobertura de la ONIC.
+Durante este caminar, la ONIC ha logrado consolidarse como Autoridad Nacional de Gobierno Indígena y un referente de buen gobierno por su capacidad demostrada para liderar y acompañar a los Pueblos Indígenas en sus distintos procesos que han favorecido la unidad, el territorio, la cultura y la autonomía como estrategias de resistencia, pervivencia, paz y buen vivir. También, por la claridad de su plataforma de lucha, el fortalecimiento constante de las capacidades de sus 10 Consejerías, el trabajo permanente de las organizaciones regionales y las comunidades de base, la implementación
+de los mandatos estatutarios[^1] y políticos expresados en los Congresos Nacionales de los Pueblos Indígenas y la Ley de Gobierno Propio que se generó en dos periodos de gobierno (2012 - 2021), asimismo, ha logrado consolidarse como referente de buen gobierno por el aporte valiente de cada uno de nuestros ancestros, ancestras, sabios, sabias, médicos tradicionales, mujeres, niños, niñas, jóvenes, hombres, guardias, líderes, lideresas, consejeros y consejeras que han representado a los Pueblos Indígenas que se encuentran bajo la cobertura de la ONIC.
 
-Los anteriores resultados se han logrado en medio de difíciles situaciones generadas por el conflicto
-armado, el racismo estructural, el colonialismo intelectual y la renuencia de varios gobiernos a la
-aplicación de la Constitución Política de 1991 y de instrumentos internacionales como el Convenio
-169 de la OIT a favor de los derechos de los Pueblos Indígenas. Si bien este camino recorrido por la
-ONIC no ha sido fácil, se ha recorrido con la convicción de que toda buena semilla sembrada dará
-frutos a favor de la materialización de los derechos de nuestros 115 Pueblos Indígenas.
-Este tejido de 44 años ha dejado a la ONIC un acumulado de aprendizajes, saberes, legados,
-resultados positivos y nuevos retos por afrontar, entre estos: Aumento de la autonomía económica de
-los Pueblos Indígenas para que transiten hacia una real autonomía política y puesta en marcha de
-acciones concretas dirigidas a impulsar el regreso al orígen, la protección de los sistemas de
-conocimientos ancestrales, la sistematización de la memoria organizativa, la materialización de los
-derechos de la la Madre Tierra y la ejecución del Plan Estratégico de la ONIC como marco rector que
-orientará sus acciones para dar cumplimiento al conjunto de mandatos estatutarios y políticos
-recibidos por sus autoridades.
+Los anteriores resultados se han logrado en medio de difíciles situaciones generadas por el conflicto armado, el racismo estructural, el colonialismo intelectual y la renuencia de varios gobiernos a la aplicación de la Constitución Política de 1991 y de instrumentos internacionales como el Convenio 169 de la OIT a favor de los derechos de los Pueblos Indígenas. Si bien este camino recorrido por la ONIC no ha sido fácil, se ha recorrido con la convicción de que toda buena semilla sembrada dará frutos a favor de la materialización de los derechos de nuestros 115 Pueblos Indígenas.
 
-Así entonces, la conmemoración de los primeros 44 años de la ONIC es una oportunidad histórica
-para repensarnos, proyectarnos, redireccionar nuestra acción organizativa y reconocer que
-seguiremos caminando la palabra de vida y fortaleciendo nuestras capacidades para estar cada vez
-más cerca de las comunidades y las organizaciones regionales para que así se materialice el lema
-“la ONIC es el sol que alumbra para todos”, lo anterior, como apuesta de buen gobierno de
+Este tejido de 44 años ha dejado a la ONIC un acumulado de aprendizajes, saberes, legados, resultados positivos y nuevos retos por afrontar, entre estos: Aumento de la autonomía económica de los Pueblos Indígenas para que transiten hacia una real autonomía política y puesta en marcha de acciones concretas dirigidas a impulsar el regreso al orígen, la protección de los sistemas de conocimientos ancestrales, la sistematización de la memoria organizativa, la materialización de los
+derechos de la la Madre Tierra y la ejecución del Plan Estratégico de la ONIC como marco rector que orientará sus acciones para dar cumplimiento al conjunto de mandatos estatutarios y políticos recibidos por sus autoridades.
+
+Así entonces, la conmemoración de los primeros 44 años de la ONIC es una oportunidad histórica para repensarnos, proyectarnos, redireccionar nuestra acción organizativa y reconocer que seguiremos caminando la palabra de vida y fortaleciendo nuestras capacidades para estar cada vez más cerca de las comunidades y las organizaciones regionales para que así se materialice el lema “la ONIC es el sol que alumbra para todos”, lo anterior, como apuesta de buen gobierno de
 conformidad a los mandatos 7 y 21 de la Ley de Gobierno Propio.
 
 Finalmente, debemos trabajar más para contribuir significativamente a mejorar las condiciones de
@@ -86,7 +62,38 @@ autoridades para consolidarse como el sol que alumbra para todos.
 La ONIC y parte de nuestros Pueblos Originarios y las guardias indígenas (de Norte a Sur y de Oriente a Occidente desde la Alta Guajira pasando por Valledupar, Cali, Popayán, Pereira, Ibagué, Neiva y Saravena) nos hicimos partícipes de las movilizaciones que se realizaron en Colombia en conmemoración del primero de mayo Día Internacional de los Trabajadores, exigiendo mejores condiciones y estabilidad laboral para los trabajadores que tanto han aportado a la construcción de
 un mejor país.
 
-Nos movilizamos de Norte a Sur, de Oriente a Occidente en el territorio nacional, desde la Alta Guajira, Valledupar, Cali, Popayán, Pereira, Ibagué, Neiva y Saravena, y en nuestros espacios sagrados, porque estamos convencidos que es hora de transitar a un mandato popular que le cumpla a los Pueblos Originarios, ya que somos elementos esenciales en las transformaciones del país, asumimos el mandato de ser como el Sol: alumbrar para todos, y seguir luchando hasta que se apague el Sol.
+Además, participamos en las movilizaciones en defensa de los derechos de los Pueblos Indígenas y
+de los demás colombianos, asimismo, en apoyo a las transformaciones regionales con inversión
+social y las reformas estructurales del país solicitados por el mandato popular y concertadas en su
+momento entre el Gobierno Nacional y el Gobierno Indígena, convencidos que es posible construir
+una Colombia multicolor que incluya la materialización real de los derechos de todos los Pueblos
+Indígenas a partir de una agenda propia y propuestas de solución a las problemáticas que les
+afectan.
+
+También, participamos en las movilizaciones para exigir adecuaciones institucionales de las
+entidades y la aceleración tanto de la ejecución presupuestal como de la implementación de los
+acuerdos del Plan Nacional de Desarrollo (PND) 2022 - 2026 Colombia Potencia Mundial de la Vida a
+favor de las comunidades indígenas mediante Planes de Desarrollo Municipales y Departamentales.
+A propósito de los acuerdos concertados en el PND, a continuación, se presentan algunos:
+Expedición del Decreto de Autoridad Ambiental Indígena y el desarrollo de consultas previas de las
+reformas a la salud, la educación y la Ley de Víctimas, necesarias para la puesta en marcha del
+Sistema de Educación Indígena Propio - SEIP-, el Sistema Indígena de Salud Propia e Intercultural
+-SISPI- y el fortalecimiento de los mecanismos de autoprotección colectivos como parte de la
+implementación del Capítulo Étnico del Acuerdo Final de Paz. Al respecto es relevante mencionar
+que estos acuerdos no han sido cumplidos adecuadamente por ninguno de los anteriores gobiernos.
+
+Finalmente, participamos en las movilizaciones del primero de mayo para exigir la paz total;
+exigibilidad que se justifica por la actual crisis o estado de emergencia en el que se encuentran los
+Pueblos Indígenas, declarada desde el 2019 [^2]
+; que en lugar de mejorar ha empeorado como lo
+constata el primer informe de 2024 de la Consejería de Derechos de los Pueblos Indígenas,
+Derechos Humanos y Paz denominado Memoria de Vida y Armonías, que expresa que desde el
+2016 [^3] hasta la fecha se han registrado 2.335 casos integrado por 174.612 víctimas indígenas en todo
+el territorio nacional, afectando principalmente al Chocó con un 71% y al nodo Cauca, Valle del
+Cauca y Nariño con un 14,6% ante la presencia de la violencia armada ligada al control territorial
+para el desarrollo de economías ilegales. Sumado a ello sigue vigente la alta mortalidad infantil
+indígena a razón de la desnutrición, especialmente en los departamentos de Vichada, La Guajira y
+Chocó [^4]
 
 Marchamos apoyando las reformas sociales porque ese ha sido un mandato popular que concertamos entre el Gobierno Nacional y el Gobierno Indígena. Para la ONIC los acuerdos y alcances que concertamos en el Plan Nacional de Desarrollo: Colombia Potencia Mundial de la Vida deben de ser implementados con celeridad, los acuerdos de consulta en las reformas a la Salud y Educación y Víctimas Indígenas deben de ser implementados vía legislativa o ejecutiva con urgencia para la puesta en marcha del i) Sistema de Educación Indígena Propio, ii) Sistema Indígena de Salud Propia e Intercultural y iii) los mecanismos de Autoprotección Colectivos, recordando los compromisos pendientes en la implementación del Capítulo Étnico del Acuerdo Final de Paz donde la adecuación institucional[^2] y los decretos de Autoridad Ambiental Indígenas están sobre la mesa para resolverse. Los mencionados y otros compromisos de Mingas son viejos acuerdos pactados de Gobierno a Gobierno y no han sido cumplidos adecuadamente por ninguno de los gobiernos antecesores al presente.
 
@@ -173,15 +180,12 @@ En medio de la tragedia de miles de palestinos están siendo asesinados, a la ve
 
 [^1]:Estatutos de 2003 de la ONIC registrados en la Cámara de Comercio.
 
-[^1]: La planeación estratégica se enfocó en la implementación de la Ley de Gobierno Propio apoyándose en la revisión de los mandatos de los anteriores congresos y los estatutos de 2003 de ONIC protocolizados en la Cámara de Comercio.
 
-[^2]: Se reconoce el esfuerzo de la Unidad de Víctimas por implementar decididamente el Capítulo Étnico del Acuerdo Final de Paz de acuerdo a la concertación en la Mesa Permanente de Concertación.desarrollada para el Plan Nacional de Desarrollo: Colombia Potencia Mundial de la Vida.
+[^2]: Declaración de Emergencia Humanitaria de y por los Pueblos Indígenas, 09 de agosto de 2019. Disponible en: <a href="https://www.onic.org.co/comunicados-onic/3105-declaracion-de-emergencia-humanitaria-de-y-por-los-pueblos-indigenas" target="_blank">ver aquí</a>
 
-[^3]: Declaración de Emergencia Humanitaria de y por los Pueblos Indígenas, 09 de agosto de 2019. Disponible en: <a href="https://www.onic.org.co/comunicados-onic/3105-declaracion-de-emergencia-humanitaria-de-y-por-los-pueblos-indigenas" target="_blank">ver aquí</a>
+[^3]: Información sistematizada en el Observatorio de Derechos Humanos de la ONIC desde 2016 como esfuerzo propio para monitorear la situación territorial de Derechos Humanos de acuerdo a la política del Acuerdo Final de Paz.
 
-[^4]: Información sistematizada en el Observatorio de Derechos Humanos de la ONIC desde 2016 como esfuerzo propio para monitorear la situación territorial de Derechos Humanos de acuerdo a la política del Acuerdo Final de Paz.
-
-[^5]: Ministerio de Salud y Protección Social/Instituto Nacional de Salud./Instituto Colombiano de Bienestar Familiar. Boletín de Prensa No 04 de 2024, Disminuye la mortalidad por desnutrición aguda en niños y niñas menores de cinco años en el país. Disponible en: <a href="https://www.minsalud.gov.co/Paginas/Disminuye-la-mortalidad-por-desnutricion-aguda-en-ninos-y-ninas-menores-de-cinco-anos-en-el-pais.aspx" target="_blank">ver aquí</a>
+[^4]: Ministerio de Salud y Protección Social/Instituto Nacional de Salud./Instituto Colombiano de Bienestar Familiar. Boletín de Prensa No 04 de 2024, Disminuye la mortalidad por desnutrición aguda en niños y niñas menores de cinco años en el país. Disponible en: <a href="https://www.minsalud.gov.co/Paginas/Disminuye-la-mortalidad-por-desnutricion-aguda-en-ninos-y-ninas-menores-de-cinco-anos-en-el-pais.aspx" target="_blank">ver aquí</a>
 
 [^6]: Intervención de la Compañera Emberá Chami Directora de la Unidad para la Atención y Reparación Integral a las Víctimas Patricia Tobón ante la Corte Constitucional en la sesión técnica de la Sala Especial de Seguimiento a la Sentencia T-025 de 2004, 10 de mayo de 2024.
 
