@@ -59,8 +59,8 @@ Gobierno Propio: 5.8 - Literales A / B / C, 15 - Literal C - y 16 Literales D / 
 
 
 # Eventos importantes con el artículo de Asamblea Emberá
-### Eventos destacados
-----
+### Pueblos Emberá Ejercen poder Constituyente en Unidad por sus Derechos
+---- 
 Entre el 19 y 22 de junio del año en curso se desarrolló en el departamento de Risaralda la Asamblea Nacional de las Autoridades de los Pueblos de la Nación Emberá de Colombia, para dar cumplimiento a los mandatos de los tres Congresos realizados en Pereira – Risaralda y Dobio – Valle del Cauca.
 
 Esta Asamblea se realizó en el marco del poder constituyente que reside en los Pueblos Emberá Dóbida, Emberá Eyabida, Emberá Chamí, Emberá Katío y Eperara Siapidaara, que se encuentran ubicados en al menos 15 departamentos de Colombia [^5].
@@ -82,7 +82,7 @@ Así entonces, el surgimiento de esta Confederación surge para que se avance co
 
 <div class="border border 1 p-2" style="background-color: azure; font-size: 10pt;">En la siguiente entrega de este Boletín de Buen Gobierno de la ONIC se informará con detalle sobre los avances en el cumplimiento de los acuerdos concertados entre el Gobierno Nacional y la Asamblea de la Nación Emberá.</div>
 
-# Buen Gobierno con el artículo de Así va el Plan Estratégico
+# Buen Gobierno
 ### Así va el Plan Estratégico de la ONIC
 El actual Consejo Mayor de Gobierno se encuentra avanzando en la aprobación del Plan Estratégico de la Organización Nacional Indígena de Colombia (ONIC), en cumplimiento del mandato 30 del VIII Congreso Nacional de los Pueblos Indígenas reiterado en el X Congreso.
 
