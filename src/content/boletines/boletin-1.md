@@ -80,7 +80,7 @@ Así entonces, el surgimiento de esta Confederación surge para que se avance co
 ![Imagen](./images/b1i10.png)
 <span class="img-sub">Fotografía:Asamblea Nacional de Autoridades de los Pueblos de la Nación Emberá junto con los representantes del gobierno nacional</span>
 
-<div class="border border 1 p-1" style="background-color: azure; font-size: 10pt;">En la siguiente entrega de este Boletín de Buen Gobierno de la ONIC se informará con detalle sobre los avances en el cumplimiento de los acuerdos concertados entre el Gobierno Nacional y la Asamblea de la Nación Emberá.</div>
+<div class="border border 1 p-2" style="background-color: azure; font-size: 10pt;">En la siguiente entrega de este Boletín de Buen Gobierno de la ONIC se informará con detalle sobre los avances en el cumplimiento de los acuerdos concertados entre el Gobierno Nacional y la Asamblea de la Nación Emberá.</div>
 
 # Buen Gobierno con el artículo de Así va el Plan Estratégico
 ### Así va el Plan Estratégico de la ONIC
