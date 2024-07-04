@@ -82,6 +82,20 @@ Así entonces, el surgimiento de esta Confederación surge para que se avance co
 
 <div class="border border 1 p-1" style="background-color: azure; font-size: 10pt;">En la siguiente entrega de este Boletín de Buen Gobierno de la ONIC se informará con detalle sobre los avances en el cumplimiento de los acuerdos concertados entre el Gobierno Nacional y la Asamblea de la Nación Emberá.</div>
 
+# Buen Gobierno con el artículo de Así va el Plan Estratégico
+### Así va el Plan Estratégico de la ONIC
+El actual Consejo Mayor de Gobierno se encuentra avanzando en la aprobación del Plan Estratégico de la Organización Nacional Indígena de Colombia (ONIC), en cumplimiento del mandato 30 del VIII Congreso Nacional de los Pueblos Indígenas reiterado en el X Congreso.
+
+Este Plan Estratégico está integrado por líneas de acción, programas y proyectos para cada una de las diez (10) Consejerías que lideraron autónomamente la construcción de su contenido y que liderarán su implementación, basándose en los mandatos estatutarios y políticos de la ONIC derivados de la Ley de Gobierno Propio y el X Congreso. Este resultado fue posible gracias a la puesta en marcha de una metodología dialógica participativa a nivel político y técnico coordinada por el Consejero Secretario General, Gerardo Jumí, que permitió caminar la palabra dulce tanto con las Consejerías como con las autoridades indígenas participantes de la construcción horizontal de un documento estratégico para el futuro de la ONIC, los Pueblos Indígenas y las organizaciones que están en su cobertura. 
+
+Con su adopción, el Plan Estratégico se convertirá en el instrumento propio de planeación política - técnica de la ONIC y el marco rector que orientará su actuación a corto, mediano y largo plazo, con la consecuente alineación o enfoque de toda la organización hacia el cumplimiento de los mandatos recibidos. 
+
+Así entonces, se concluye que este Plan Estratégico es una oportunidad histórica para revitalizar, fortalecer y perfeccionar integralmente a la ONIC como Autoridad Nacional de Gobierno Indígena y el “sol que alumbra para todos” los Pueblos y Naciones Indígenas de Colombia que anhelan tanto volver al origen como garantizar su pervivencia física y cultural; teniendo en cuenta sus planes de vida, planes de salvaguarda, sistemas de conocimientos ancestrales, la fortaleza de sus estructuras de gobierno de base, así como los principios de unidad, territorio, cultura y autonomía. En otros términos, este Plan Estratégico es una oportunidad para actuar desde el Buen Corazón para un Buen Gobierno para cumplir y respetar tanto lo mandatado por las autoridades indígenas y el legado que han recibido los Pueblos Originarios de sus ancestros. 
+
+En la actualidad se cuenta con un documento consolidado y se está proyectando la plataforma en línea para el seguimiento al cumplimiento del Plan Estratégico. En la imagen de abajo se puede identificar que el Plan Estratégico de la ONIC cuenta con 29 líneas de acción que se desarrollarán en 42 programas, que a su vez cuentan con 97 proyectos. 
+
+![Imagen](./images/b1i11.png)
+<span class="img-sub">Figura. Panel de mando del Sistema de Gestión de Plan Estratégico de la ONIC</span>
 
  
 
