@@ -3,7 +3,7 @@ index: 1
 titulo: "ONIC Casa grande de los Pueblos Originarios de Colombia; 44 años de Buen Gobierno tejiendo unidad, territorio, cultura y autonomía"
 short: "ONIC Casa grande de los Pueblos Originarios de Colombia;"
 vigencia: 2024
-mes: "Mayo"
+mes: "Junio"
 tags: "Buen Gobierno, Movilización, Mandato Popular, Racismo institucional, Derechos de los Pueblos Indígenas."
 img: "/img/boletines/b1i1.png"
 ---
@@ -113,7 +113,7 @@ En medio de la tragedia de miles de palestinos que están siendo asesinados, a l
 
 <div class="bg-success text-white p-2 mt-2 mb-2 ps-3">
             <div class="text-center"> Si quieres, puedes reenviar este boletín a tus contactos o decirles que se apunten
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7ya1kjLf2MY49mLGgkfslqdDGDQuk9rrrcDEHNNKmRllSNA/viewform" class="text-white">aquí</a>. Puedes escribirme con ideas, comentarios y sugerencias a sistemabuengobierno@onic.org.co
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7ya1kjLf2MY49mLGgkfslqdDGDQuk9rrrcDEHNNKmRllSNA/viewform" target="_blank" class="text-white">aquí</a>. Puedes escribirme con ideas, comentarios y sugerencias a sistemabuengobierno@onic.org.co
                 o a mi cuenta de Twitter: @GerardoJumi</div>
 </div>
 
