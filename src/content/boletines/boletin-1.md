@@ -3,7 +3,7 @@ index: 1
 titulo: "ONIC Casa grande de los Pueblos Originarios de Colombia; 44 años de Buen Gobierno tejiendo unidad, territorio, cultura y autonomía"
 short: "ONIC Casa grande de los Pueblos Originarios de Colombia;"
 vigencia: 2024
-mes: "Junio"
+mes: ""
 tags: "Buen Gobierno, Movilización, Mandato Popular, Racismo institucional, Derechos de los Pueblos Indígenas."
 img: "/img/boletines/b1i1.png"
 ---
