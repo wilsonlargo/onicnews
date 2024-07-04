@@ -58,90 +58,12 @@ comunidades y organizaciones filiales a la ONIC participamos desde nuestra auton
 Gobierno Propio: 5.8 - Literales A / B / C, 15 - Literal C - y 16 Literales D / G / M).
 
 
-# Avances del programa Juntanza Étnica en ONIC
+# Eventos importantes con el artículo de Asamblea Emberá
 
-###  "ONIC y ACDI VOCA unen esfuerzos en un proyecto para empoderar a comunidades indígenas en Colombia"
----
-
-![Segunda imagen](./images/b1i3.png)
-<span class="img-sub">Fotografía: Mujer Emberá Katió participante de la Asamblea Nacional de Autoridades Indígenas de la ONIC, abril de 2024.</span>
-
-La ONIC desde el año 2021 ha venido adelantando un modelo de trabajo colaborativo con ACDI
-VOCA de la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID); gracias a ello
-en la actualidad se desarrolla el Proyecto: Empoderamiento de los pueblos indígenas de la ONIC
-mediante el fortalecimiento organizativo, la diplomacia indígena, el impulso de las economías propias,
-la cultura y la atención al riesgo, en el marco del Programa Juntanza Étnica.
-
-En este proyecto participan activamente las Consejerías: (i) Mujer, Familia y Generación, (ii)
-Planeación, Administración y Finanzas, y, (iii) Secretaría General. El desarrollo de este proyecto
-busca fortalecer las capacidades organizacionales de la ONIC para lograr una mayor incidencia
-política y una gestión efectiva de recursos que provienen de la cooperación internacional. Son
-beneficiarias del Proyecto las organizaciones filiales de la ONIC de La Guajira, Chocó, Nariño, Valle
-del Cauca, Amazonas y Bogotá que se relacionan en la siguiente tabla.
-
-![Imagen.](./images/b1i4.png)
-<span class="img-sub">Tabla 1: Organizaciones y comunidades con las que se relaciona el proyecto de Empoderamiento de la ONIC en el marco del programa Juntanza Étnica.</span>
-
-Es importante resaltar que la ONIC ha logrado mediante este Proyecto fortalecer y llegar a sus
-organizaciones filiales, trabajando conjuntamente con estas para el desarrollo de los mandatos del X
-Congreso Nacional de Pueblos Indígenas y haciendo uso de las herramientas tecnológicas
-fortaleciendo a la ONIC como Autoridad Nacional de Gobierno Indígena.
-
-En el marco de este Proyecto, la Consejería de Mujer, Familia y Generación tiene a su cargo las líneas de: (i) Empoderamiento a las Mujeres Indígenas y; (ii) Empoderamiento Cultural. La Consejería definió la estrategía Tejiendo Redes para la Cultura y Unidad de las Mujeres Indígenas que se desarrollará a partir de 7 módulos de trabajo que se imparten desde mayo de manera virtual contemplando los siguientes temas: Liderazgo, Derechos de las Mujeres Indígenas y Prevención de Desarmonías.
-
-![Imagen](./images/b1i5.png)
-<span class="img-sub">Fotografía: Participación de la ONIC en la Exposición de Cafes de Colombia Expo 2023 con su marca Semilla Nativa. Fuente: Instagram @semillanativa_indigena</span>
-
-- Fortalecimiento a 18 organizaciones, cabildos y resguardos indígenas, a partir de la transferencia de conocimientos y asesoría en administración propia, economías propias, enfoque de mujer, control territorial,
-comunicaciones, entre otros; con la finalidad de aportar a sus capacidades administrativas, técnicas y financieras, para una mayor gestión de recursos desde los territorios.
-
-- Diagnóstico de la forma en que los Pueblos Indígenas pensamos y sentimos nuestras economías propias y la soberanía alimentaria mediante diálogo de saberes.
-
-- Registro y caracterización de 334 unidades económicas o de emprendimiento de los territorios focalizados en el Proyecto.
-
-- Construcción de los contenidos de las capacitaciones de fortalecimiento comercial y producción de abonos orgánicos como herramienta para el fortalecimiento de la soberanía alimentaria.
-
-- Desarrollo de seguimiento a la entrega de los productos técnicos en el marco del convenio,así como de la efectiva ejecución financiera del mismo, para garantizar que la implementación del Proyecto cumpla con los requerimientos técnicos para ser presentados al cooperante según sus solicitudes.
-
-![Imagen](./images/b1i6.png)
-<span class="img-sub">Fotografía: Altar a las Semillas Nativas de los 10 resguardos indígenas accionante de la Tutela contra el Ministerio de Agricultura por daños irreversibles a los maíces nativos por contaminación transgénica.</span>
-
-La Consejería Secretaría General lidera la línea de Construcción de Paz Territorial y Diplomacia Indígena, Comunicación y Gestión del Riesgo.
-
-Por su parte, la Consejería Secretaría General lidera tres líneas: (i) Buen Gobierno; (ii) Gestión del
-Riesgo; (iii) Construcción de Paz Territorial y Diplomacia Indígena. Sus principales avances son:
-
-- Desarrollo de la convocatoria e inscripción de jóvenes de las organizaciones filiales participantes
-en el Proyecto a 6 módulos de formación e intercambio de saberes sobre Paz Territorial y Diplomacia Indígena.
-
-- Visibilización y posicionamiento político de la ONIC ante medios de comunicación y fortalecimiento del
-contenido publicado en la web y redes sociales de la ONIC, como herramienta necesaria para la
-incidencia política.
-
-![Imagen](./images/b1i7.png)
-<span class="img-sub">Fotografía: Participación de la ONIC en la movilización del 27 de septiembre de 2023.</span>
-
-- Fortalecimiento de los procesos de articulación con las Consejerías de la ONIC, especialmente con las
-Consejerías de: Mujer, Familia y Generación, Planeación, Administración y Finanzas, así como con la de Derechos de los Pueblos Indígenas, Derechos Humanos y Paz.
-
-- Fortalecimiento de la ONIC mediante el desarrollo de un aplicativo que permitirá realizar seguimiento y
-evaluación al cumplimiento del Plan Estratégico de la ONIC por parte de las 10 Consejerías; el aplicativo
-próximamente se entregará al Consejo Mayor de Gobierno para su respectiva aprobación.
-
-- Producción del Informativo de Buen Gobierno, que se estará actualizando periódicamente y servirá para
-visibilizar las problemáticas de los Pueblos Indígenas y los logros de buen gobierno de la ONIC.
-
-- Recolección de información en campo para avanzar en los productos de la línea de Gestión del Riesgo:
-(i) Construcción de panoramas en riesgo para cada organización indígena participante; (ii) Metodología
-para articular acciones de prevención, protección y manejo de desastres con entidades territoriales
-priorizadas; (iii) Propuesta para la creación del fondo de emergencias de la ONIC; (iv) Realización de
-cartografía para el mapeo e identificación de comunidades en riesgo y con amenazas naturales. A
-la vez, incluyendo el componente de cambio climático y mapas de localización. Para dar cumplimiento a los productos mencionados fue necesario la realización de relacionamiento y despliegue en territorio.
-
-De está manera el proyecto de fortalecimiento organizativo permite mejorar nuestras capacidades promoviendo el trabajo colaborativo entre las Consejerías de cara a llegar a las comunidades llevando a cabo nuestros mandatos estratégicos como lo es el tejido entre mujeres indígenas, la construcción de paz territorial y el desarrollo propio para el desarrollo de la visión de nuestra Ley de Gobierno Propio.
-
-![Imagen](./images/b1i8.png)
-<span class="img-sub">Fotografía: Imagen de la estrategía Tejiendo Redes para la cultura y unidad de las Mujeres Indígenas de la Consejería Mujer, Familia y Generación.</span>
+### Eventos importantes
+Entre el 19 y 22 de junio del año en curso se desarrolló en el departamento de Risaralda la Asamblea Nacional de las Autoridades de los Pueblos de la Nación Emberá de Colombia, para dar cumplimiento a los mandatos de los tres Congresos realizados en Pereira – Risaralda y Dobio – Valle del Cauca. 
+Esta Asamblea se realizó en el marco del poder constituyente que reside en los Pueblos Emberá Dóbida, Emberá Eyabida, Emberá Chamí, Emberá Katío y Eperara Siapidaara, que se encuentran ubicados en al menos 15 departamentos de Colombia . 
+Durante la Asamblea se desarrollaron espacios autónomos y de concertación con las entidades del Gobierno Nacional. En lo que refiere al relacionamiento con el Gobierno Nacional se suscribieron acuerdos como: La instalación de una Comisión Nacional de Concertación de los Pueblos de la Nación Emberá con el Gobierno Nacional mediante la expedición de un decreto que inicialmente será por resolución del Ministerio del Interior, implementación de planes de retorno y reubicación de la población Emberá en condición de desplazamiento forzado, expedición de un CONPES para la atención de las principales problemáticas generadas por el conflicto armado que conlleve a la estabilización socioeconómica de los Pueblos Emberá que han sido víctimas, contemplando comunidades desplazadas receptoras y de retorno. 
 
 # Publicaciones del Consejero Jaizareama Gerardo Jumi
 
