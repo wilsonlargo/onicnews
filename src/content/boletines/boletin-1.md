@@ -70,13 +70,17 @@ Durante la Asamblea se desarrollaron espacios autónomos y de concertación con 
 ![Imagen](./images/b1i9.png)
 <span class="img-sub">Fotografía:Firma de acuerdos entre el Gobierno Nacional y la Asamblea Nacional de Autoridades de los pueblos de la Nación Emberá</span>
 
+
 Asimismo, durante la Asamblea se visibilizaron las diferentes problemáticas sociales, económicas, ambientales y territoriales de la Nación Emberá como la pobreza, la mendicidad, los suicidios, la desnutrición y la situación de las víctimas Emberá a razón del conflicto armado que han sufrido afectaciones e impactos desde hace más de 6 décadas.  Teniendo en cuenta estas problemáticas, la Asamblea definió que su atención o solución serán asumidas en unidad a partir de un escenario de solidaridad, buen gobierno y capacidad propositiva y de concertación en el marco de su poder constituyente. En este sentido, aprobó que constituirá la Confederación Nacional de los Pueblos de la Nación Emberá que contará la siguiente estructura de gobierno: Congreso Nacional de la Nación Emberá, Asamblea Nacional de Autoridades Emberá, Consejo Directivo de Gobierno y Consejo General de Gobierno.
 
 Esta Confederación se caracterizará por tener una forma de gobierno democrática, por garantizar la participación de un 50% de las mujeres o cuota de género en las estructuras de gobierno y por tener una representación legal plural y colegiada integrada por: Consejera Mayor Representante Legal, Consejero Mayor Representante Legal y Consejero General Representante Legal. Esta representación legal plural y colegiada permitirá una mayor representación de los amplios territorios Emberá y rápida rotación en la representación para la ordenación del gasto, la firma de convenios y la suscripción de actos jurídicos en nombre de la Confederación con la autorización del Consejo General de Gobierno. 
 
-Así entonces, el surgimiento de esta Confederación surge para que se avance como Pueblos Emberá en la búsqueda conjunta y en unidad de soluciones a problemáticas comunes, también, para que se impulse y acompañe a los distintos procesos organizativos regionales y locales Emberá ya existentes en sus apuestas de solución, sin que estos pierdan su autonomía y la posibilidad de seguir fortaleciéndose.
+Así entonces, el surgimiento de esta Confederación surge para que se avance como Pueblos Emberá en la búsqueda conjunta y en unidad de soluciones a problemáticas comunes, también, para que se impulse y acompañe a los distintos procesos organizativos regionales y locales Emberá ya existentes en sus apuestas de solución, sin que estos pierdan su autonomía y la posibilidad de seguir fortaleciéndose
+
 ![Imagen](./images/b1i10.png)
 <span class="img-sub">Fotografía:Asamblea Nacional de Autoridades de los Pueblos de la Nación Emberá junto con los representantes del gobierno nacional</span>
+
+<div class="border border 1 p-1" style="color: gray;">En la siguiente entrega de este Boletín de Buen Gobierno de la ONIC se informará con detalle sobre los avances en el cumplimiento de los acuerdos concertados entre el Gobierno Nacional y la Asamblea de la Nación Emberá.</div>
 
 
  
