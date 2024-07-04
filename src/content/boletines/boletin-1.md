@@ -74,6 +74,8 @@ Asimismo, durante la Asamblea se visibilizaron las diferentes problemáticas soc
 
 Esta Confederación se caracterizará por tener una forma de gobierno democrática, por garantizar la participación de un 50% de las mujeres o cuota de género en las estructuras de gobierno y por tener una representación legal plural y colegiada integrada por: Consejera Mayor Representante Legal, Consejero Mayor Representante Legal y Consejero General Representante Legal. Esta representación legal plural y colegiada permitirá una mayor representación de los amplios territorios Emberá y rápida rotación en la representación para la ordenación del gasto, la firma de convenios y la suscripción de actos jurídicos en nombre de la Confederación con la autorización del Consejo General de Gobierno. 
 
+###
+Así entonces, el surgimiento de esta Confederación surge para que se avance como Pueblos Emberá en la búsqueda conjunta y en unidad de soluciones a problemáticas comunes, también, para que se impulse y acompañe a los distintos procesos organizativos regionales y locales Emberá ya existentes en sus apuestas de solución, sin que estos pierdan su autonomía y la posibilidad de seguir fortaleciéndose. 
 
 
  
