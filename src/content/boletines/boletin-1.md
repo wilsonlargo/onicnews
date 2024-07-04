@@ -61,17 +61,20 @@ Gobierno Propio: 5.8 - Literales A / B / C, 15 - Literal C - y 16 Literales D / 
 # Eventos importantes con el artículo de Asamblea Emberá
 ### Eventos destacados
 ----
-Entre el 19 y 22 de junio del año en curso se desarrolló en el departamento de Risaralda la Asamblea Nacional de las Autoridades de los Pueblos de la Nación Emberá de Colombia, para dar cumplimiento a los mandatos de los tres Congresos realizados en Pereira – Risaralda y Dobio – Valle del Cauca. 
+Entre el 19 y 22 de junio del año en curso se desarrolló en el departamento de Risaralda la Asamblea Nacional de las Autoridades de los Pueblos de la Nación Emberá de Colombia, para dar cumplimiento a los mandatos de los tres Congresos realizados en Pereira – Risaralda y Dobio – Valle del Cauca.
+
 Esta Asamblea se realizó en el marco del poder constituyente que reside en los Pueblos Emberá Dóbida, Emberá Eyabida, Emberá Chamí, Emberá Katío y Eperara Siapidaara, que se encuentran ubicados en al menos 15 departamentos de Colombia [^5].
 
 Durante la Asamblea se desarrollaron espacios autónomos y de concertación con las entidades del Gobierno Nacional. En lo que refiere al relacionamiento con el Gobierno Nacional se suscribieron acuerdos como: La instalación de una Comisión Nacional de Concertación de los Pueblos de la Nación Emberá con el Gobierno Nacional mediante la expedición de un decreto que inicialmente será por resolución del Ministerio del Interior, implementación de planes de retorno y reubicación de la población Emberá en condición de desplazamiento forzado, expedición de un CONPES para la atención de las principales problemáticas generadas por el conflicto armado que conlleve a la estabilización socioeconómica de los Pueblos Emberá que han sido víctimas, contemplando comunidades desplazadas receptoras y de retorno.
+
+![Imagen](./images/b1i9.png)
+<span class="img-sub">Fotografía: . Firma de acuerdos entre el Gobierno Nacional y la Asamblea Nacional de Autoridades de los pueblos de la Nación Emberá</span>
 
 Asimismo, durante la Asamblea se visibilizaron las diferentes problemáticas sociales, económicas, ambientales y territoriales de la Nación Emberá como la pobreza, la mendicidad, los suicidios, la desnutrición y la situación de las víctimas Emberá a razón del conflicto armado que han sufrido afectaciones e impactos desde hace más de 6 décadas.  Teniendo en cuenta estas problemáticas, la Asamblea definió que su atención o solución serán asumidas en unidad a partir de un escenario de solidaridad, buen gobierno y capacidad propositiva y de concertación en el marco de su poder constituyente. En este sentido, aprobó que constituirá la Confederación Nacional de los Pueblos de la Nación Emberá que contará la siguiente estructura de gobierno: Congreso Nacional de la Nación Emberá, Asamblea Nacional de Autoridades Emberá, Consejo Directivo de Gobierno y Consejo General de Gobierno.
 
 Esta Confederación se caracterizará por tener una forma de gobierno democrática, por garantizar la participación de un 50% de las mujeres o cuota de género en las estructuras de gobierno y por tener una representación legal plural y colegiada integrada por: Consejera Mayor Representante Legal, Consejero Mayor Representante Legal y Consejero General Representante Legal. Esta representación legal plural y colegiada permitirá una mayor representación de los amplios territorios Emberá y rápida rotación en la representación para la ordenación del gasto, la firma de convenios y la suscripción de actos jurídicos en nombre de la Confederación con la autorización del Consejo General de Gobierno. 
 
-![Imagen](./images/b1i9.png)
-<span class="img-sub">Fotografía: . Firma de acuerdos entre el Gobierno Nacional y la Asamblea Nacional de Autoridades de los pueblos de la Nación Emberá</span>
+
 
  
 
