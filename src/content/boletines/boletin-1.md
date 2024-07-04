@@ -62,8 +62,10 @@ Gobierno Propio: 5.8 - Literales A / B / C, 15 - Literal C - y 16 Literales D / 
 
 ### Eventos importantes
 Entre el 19 y 22 de junio del año en curso se desarrolló en el departamento de Risaralda la Asamblea Nacional de las Autoridades de los Pueblos de la Nación Emberá de Colombia, para dar cumplimiento a los mandatos de los tres Congresos realizados en Pereira – Risaralda y Dobio – Valle del Cauca. 
-Esta Asamblea se realizó en el marco del poder constituyente que reside en los Pueblos Emberá Dóbida, Emberá Eyabida, Emberá Chamí, Emberá Katío y Eperara Siapidaara, que se encuentran ubicados en al menos 15 departamentos de Colombia . 
-Durante la Asamblea se desarrollaron espacios autónomos y de concertación con las entidades del Gobierno Nacional. En lo que refiere al relacionamiento con el Gobierno Nacional se suscribieron acuerdos como: La instalación de una Comisión Nacional de Concertación de los Pueblos de la Nación Emberá con el Gobierno Nacional mediante la expedición de un decreto que inicialmente será por resolución del Ministerio del Interior, implementación de planes de retorno y reubicación de la población Emberá en condición de desplazamiento forzado, expedición de un CONPES para la atención de las principales problemáticas generadas por el conflicto armado que conlleve a la estabilización socioeconómica de los Pueblos Emberá que han sido víctimas, contemplando comunidades desplazadas receptoras y de retorno. 
+Esta Asamblea se realizó en el marco del poder constituyente que reside en los Pueblos Emberá Dóbida, Emberá Eyabida, Emberá Chamí, Emberá Katío y Eperara Siapidaara, que se encuentran ubicados en al menos 15 departamentos de Colombia [^5]. 
+Durante la Asamblea se desarrollaron espacios autónomos y de concertación con las entidades del Gobierno Nacional. En lo que refiere al relacionamiento con el Gobierno Nacional se suscribieron acuerdos como: La instalación de una Comisión Nacional de Concertación de los Pueblos de la Nación Emberá con el Gobierno Nacional mediante la expedición de un decreto que inicialmente será por resolución del Ministerio del Interior, implementación de planes de retorno y reubicación de la población Emberá en condición de desplazamiento forzado, expedición de un CONPES para la atención de las principales problemáticas generadas por el conflicto armado que conlleve a la estabilización socioeconómica de los Pueblos Emberá que han sido víctimas, contemplando comunidades desplazadas receptoras y de retorno.
+
+
 
 # Publicaciones del Consejero Jaizareama Gerardo Jumi
 
