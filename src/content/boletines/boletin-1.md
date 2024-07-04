@@ -58,7 +58,7 @@ comunidades y organizaciones filiales a la ONIC participamos desde nuestra auton
 Gobierno Propio: 5.8 - Literales A / B / C, 15 - Literal C - y 16 Literales D / G / M).
 
 
-# Eventos importantes con el artículo de Asamblea Emberá
+# Eventos destacados
 ### Pueblos Emberá Ejercen poder Constituyente en Unidad por sus Derechos
 ---- 
 Entre el 19 y 22 de junio del año en curso se desarrolló en el departamento de Risaralda la Asamblea Nacional de las Autoridades de los Pueblos de la Nación Emberá de Colombia, para dar cumplimiento a los mandatos de los tres Congresos realizados en Pereira – Risaralda y Dobio – Valle del Cauca.
