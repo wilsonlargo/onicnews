@@ -76,11 +76,12 @@ La Ley de Origen de la ONIC lo resume con claridad: "Es tiempo de construir un n
 
 #### “Apoyamos la paz total, pero el balance es muy pobre”: líder indígena Gerardo Jumí
 ---
-
+Entrevista del diario El Espectador al Consejero Gerardo Jumi evidenciando la situación de abandono y despreocupación de tomadores de decisión frente a la situación en los territorios indígenas. Denuncia el incumplimiento del acuerdo de paz, el aumento de violaciones de derechos humanos y la falta de garantías para un retorno seguro de las comunidades desplazadas (<a href="https://www.elespectador.com/politica/apoyamos-la-paz-total-pero-el-balance-es-muy-pobre-lider-indigena-gerardo-jumi/ " target="_blank">ver aquí</a>).
 
 
 #### El mejor gol de la Copa América
 ---
+Los pueblos indígenas de Colombia celebran a Luis Díaz, un talento Wayúu nacido de la Copa Indígena de Colombia, reflejando cómo el fútbol une y brinda alternativas de paz. Los jóvenes indígenas cuentan con grandes talentos como Díaz, fortalecerlos es el camino a la paz, la unidad y la alegría en Colombia, siendo un verdadero triunfo para el país (<a href="https://revistaraya.com/gerardo-jumi/758-el-mejor-gol-de-la-copa-america.html" target="_blank">ver aquí</a>).
 
 
 <div class="bg-success text-white p-2 mt-2 mb-2 ps-3">
