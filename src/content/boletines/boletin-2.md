@@ -49,6 +49,8 @@ La lucha por proteger sus territorios y con él, la naturaleza. Es clave, para l
 
 Es imprescindible que los derechos, intereses y medios de subsistencia de las familias-comunidades indígenas Emberá se proyecte dentro de su Plan de Vida que es la política pública para sus territorios, en particular, se tienen que formular compromisos de respetar, preservar y mantener los conocimientos, las innovaciones y las prácticas de las comunidades Emberá; que entrañan estilos tradicionales de vida pertinentes para la protección y uso sostenible de la diversidad biológica, promover su aplicación más amplia bajo los parámetros de aprobación y participación de quienes poseen los conocimientos, innovaciones y prácticas en especial las autoridades tradicionales, Jaibanas, médicos y médicas tradicionales para fomentar que los beneficios derivados de la utilización de esos conocimientos, innovaciones y prácticas sean para los territorios, familias y comunidades Emberá.
 
+![Imagen](./images/b2img2.JPG)
+
 # Eventos destacados
 ### Pueblos Emberá Ejercen poder Constituyente en Unidad por sus Derechos
 ---- 
