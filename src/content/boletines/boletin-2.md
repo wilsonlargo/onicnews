@@ -51,58 +51,37 @@ Es imprescindible que los derechos, intereses y medios de subsistencia de las fa
 
 ![Imagen](./images/b2img2.JPG)
 
-# Eventos destacados
-### Pueblos Emberá Ejercen poder Constituyente en Unidad por sus Derechos
----- 
-Entre el 19 y 22 de junio del año en curso se desarrolló en el departamento de Risaralda la Asamblea Nacional de las Autoridades de los Pueblos de la Nación Emberá de Colombia, para dar cumplimiento a los mandatos de los tres Congresos realizados en Pereira – Risaralda y Dobio – Valle del Cauca.
-
-Esta Asamblea se realizó en el marco del poder constituyente que reside en los Pueblos Emberá Dóbida, Emberá Eyabida, Emberá Chamí, Emberá Katío y Eperara Siapidaara, que se encuentran ubicados en al menos 15 departamentos de Colombia [^5].
-
-Durante la Asamblea se desarrollaron espacios autónomos y de concertación con las entidades del Gobierno Nacional. En lo que refiere al relacionamiento con el Gobierno Nacional se suscribieron acuerdos como: La instalación de una Comisión Nacional de Concertación de los Pueblos de la Nación Emberá con el Gobierno Nacional mediante la expedición de un decreto que inicialmente será por resolución del Ministerio del Interior, implementación de planes de retorno y reubicación de la población Emberá en condición de desplazamiento forzado, expedición de un CONPES para la atención de las principales problemáticas generadas por el conflicto armado que conlleve a la estabilización socioeconómica de los Pueblos Emberá que han sido víctimas, contemplando comunidades desplazadas receptoras y de retorno.
-
-![Imagen](./images/b1i9.png)
-<span class="img-sub">Fotografía:Firma de acuerdos entre el Gobierno Nacional y la Asamblea Nacional de Autoridades de los pueblos de la Nación Emberá</span>
-
-
-Asimismo, durante la Asamblea se visibilizaron las diferentes problemáticas sociales, económicas, ambientales y territoriales de la Nación Emberá como la pobreza, la mendicidad, los suicidios, la desnutrición y la situación de las víctimas Emberá a razón del conflicto armado que han sufrido afectaciones e impactos desde hace más de 6 décadas.  Teniendo en cuenta estas problemáticas, la Asamblea definió que su atención o solución serán asumidas en unidad a partir de un escenario de solidaridad, buen gobierno y capacidad propositiva y de concertación en el marco de su poder constituyente. En este sentido, aprobó que constituirá la Confederación Nacional de los Pueblos de la Nación Emberá que contará la siguiente estructura de gobierno: Congreso Nacional de la Nación Emberá, Asamblea Nacional de Autoridades Emberá, Consejo Directivo de Gobierno y Consejo General de Gobierno.
-
-Esta Confederación se caracterizará por tener una forma de gobierno democrática, por garantizar la participación de un 50% de las mujeres o cuota de género en las estructuras de gobierno y por tener una representación legal plural y colegiada integrada por: Consejera Mayor Representante Legal, Consejero Mayor Representante Legal y Consejero General Representante Legal. Esta representación legal plural y colegiada permitirá una mayor representación de los amplios territorios Emberá y rápida rotación en la representación para la ordenación del gasto, la firma de convenios y la suscripción de actos jurídicos en nombre de la Confederación con la autorización del Consejo General de Gobierno. 
-
-Así entonces, el surgimiento de esta Confederación surge para que se avance como Pueblos Emberá en la búsqueda conjunta y en unidad de soluciones a problemáticas comunes, también, para que se impulse y acompañe a los distintos procesos organizativos regionales y locales Emberá ya existentes en sus apuestas de solución, sin que estos pierdan su autonomía y la posibilidad de seguir fortaleciéndose
-
-![Imagen](./images/b1i10.png)
-<span class="img-sub">Fotografía:Asamblea Nacional de Autoridades de los Pueblos de la Nación Emberá junto con los representantes del gobierno nacional</span>
-
-<div class="border border 1 p-2" style="background-color: azure; font-size: 10pt;">En la siguiente entrega de este Boletín de Buen Gobierno de la ONIC se informará con detalle sobre los avances en el cumplimiento de los acuerdos concertados entre el Gobierno Nacional y la Asamblea de la Nación Emberá.</div>
-
 # Buen Gobierno
-### Así va el Plan Estratégico de la ONIC
-El actual Consejo Mayor de Gobierno se encuentra avanzando en la aprobación del Plan Estratégico de la Organización Nacional Indígena de Colombia (ONIC), en cumplimiento del mandato 30 del VIII Congreso Nacional de los Pueblos Indígenas reiterado en el X Congreso.
+### La Urgencia de la Unidad: Los Conflictos Internos amenazan al Movimiento Indígena, las divisiones políticas, económicas y culturales debilitan la lucha por los derechos en un momento de pulso para la transformación de Colombia.
+----
+Autora: Daniela Buitrago R. 
 
-Este Plan Estratégico está integrado por líneas de acción, programas y proyectos para cada una de las diez (10) Consejerías que lideraron autónomamente la construcción de su contenido y que liderarán su implementación, basándose en los mandatos estatutarios y políticos de la ONIC derivados de la Ley de Gobierno Propio y el X Congreso. Este resultado fue posible gracias a la puesta en marcha de una metodología dialógica participativa a nivel político y técnico coordinada por el Consejero Secretario General, Gerardo Jumí, que permitió caminar la palabra dulce tanto con las Consejerías como con las autoridades indígenas participantes de la construcción horizontal de un documento estratégico para el futuro de la ONIC, los Pueblos Indígenas y las organizaciones que están en su cobertura. 
+La unidad es crucial para los movimientos indígenas y sociales en Colombia, según la Ley de Origen de la ONIC. Sin embargo, las divisiones internas, alimentadas por diferencias ideológicas, competencia por recursos y pobreza, debilitan su lucha. Superar estas tensiones es urgente para enfrentar la violencia y construir un nuevo país.
 
-Con su adopción, el Plan Estratégico se convertirá en el instrumento propio de planeación política - técnica de la ONIC y el marco rector que orientará su actuación a corto, mediano y largo plazo, con la consecuente alineación o enfoque de toda la organización hacia el cumplimiento de los mandatos recibidos. 
+En un país donde los movimientos indígenas y sociales han sido fundamentales en la defensa de los derechos humanos y la justicia social, las divisiones internas amenazan con socavar la efectividad de estas luchas. A medida que Colombia atraviesa una fase crucial en su historia política y social, los conflictos dentro de estos movimientos se han vuelto cada vez más visibles, generando preocupación entre líderes y aliados.
+La Organización Nacional Indígena de Colombia (ONIC) ha advertido sobre esta situación en su Ley de Origen, un manifiesto político que hace un llamado a la Unidad como principio fundamental, entendiendo que el movimiento indígena es luz para el movimiento social y que muchas de las ganancias en términos legislativos y constitucionales en la construcción del Estado Colombiano se deben a la organicidad y al manejo de los conflictos internos, asimismo la ONIC reconoce que la Unidad es también con el movimiento social ya que las transformaciones del país no son únicas para la población indígena sino que todos los hermanos y hermanas merecen el alcance y goce de los derechos sabiendo que debe existir respeto en la diversidad.
+Las diferencias ideológicas y políticas son una de las principales fuentes de tensión. "Tenemos un objetivo común, pero las diferencias sobre cómo alcanzarlo nos están frenando", palabras de la Asamblea de Autoridades Tradicionales de los Pueblos de la Gran Nación Emberá, 2024. Esta divergencia de enfoques ha llevado a rivalidades y opresiones internas que dificultan la coordinación y el avance hacia metas compartidas, en un contexto tan difícil como el que se está presentando en los territorios del país sobre: inseguridad, violación a los DDHH y reclutamiento forzado de niños, niñas y jóvenes indígenas. Esta situación equivale a que todo conflicto interno a nivel del movimiento indígena (en su dimensión local, regional o nacional) favorece, en últimas, a que se generen vacíos de poder, promoviendo que los actores armados, empresas multinacionales de carbono, mineras entre otros, avancen libremente sobre los territorios indígenas dejando sin ningún sentido los esfuerzos organizativos y la validez construida de los Pueblos Indígenas a nivel de sujetos políticos.
+Además, la competencia por recursos limitados ha exacerbado las divisiones. La situación de pobreza multidimensional se presenta en el  49,2% de hogares de población indígena, en el caso de los afrodescendientes es del 43%, muy por encima de la situación de población sin pertenencia étnica, que es del 29%[^1]. Los indígenas son el grupo con mayor pobreza, lo que es más crítico en Chocó y en los departamentos de la Amazonía y la Orinoquía, donde el porcentaje de esta población en pobreza supera el 70% (DANE, 2022). El movimiento indígena aun con sus importantes avances y conquistas en el mundo de construcción jurídica del Estado aún tiene grandes retos en el aspecto material, que incluye contar con condiciones básicas mínimas como el acceso al agua, la educación, el empleo, la conectividad y acceso a recursos monetarios. Lo anterior, es clave para garantizar la protección del territorio y la reproducción de los 115 sistemas de conocimiento y gobierno de los Pueblos Originarios de Colombia.
 
-Así entonces, se concluye que este Plan Estratégico es una oportunidad histórica para revitalizar, fortalecer y perfeccionar integralmente a la ONIC como Autoridad Nacional de Gobierno Indígena y el “sol que alumbra para todos” los Pueblos y Naciones Indígenas de Colombia que anhelan tanto volver al origen como garantizar su pervivencia física y cultural; teniendo en cuenta sus planes de vida, planes de salvaguarda, sistemas de conocimientos ancestrales, la fortaleza de sus estructuras de gobierno de base, así como los principios de unidad, territorio, cultura y autonomía. En otros términos, este Plan Estratégico es una oportunidad para actuar desde el Buen Corazón para un Buen Gobierno para cumplir y respetar tanto lo mandatado por las autoridades indígenas y el legado que han recibido los Pueblos Originarios de sus ancestros. 
+Es por eso que el llamado de algunos de los forjadores del movimiento indígena es el de trascender de un mero acceso a recursos de los Sistemas de la Nación a dinamizar los territorios indígenas y ejercer realmente el gobierno propio, es decir, a crecer y dar el salto cualitativo de una vez. El movimiento indígena colombiano debe avanzar hacia la autonomía económica para que así pueda con sus propios recursos crear, impulsar y sostener sus propios proyectos políticos, no hacerlo, significará continuar debilitando procesos de autonomía económica y política por la dependencia en el financiamiento externo que ha llevado a una lucha interna por fondos que, en lugar de fortalecer la causa, ha generado una fragmentación preocupante, hecho que ha sido evidente en el marco del relacionamiento con el gobierno del cambio; prueba de ello la siguiente frase de una autoridad tradicional del pueblo Bari: "Es triste ver cómo el dinero puede dividir a quienes deberían estar luchando juntos".
 
-En la actualidad se cuenta con un documento consolidado y se está proyectando la plataforma en línea para el seguimiento al cumplimiento del Plan Estratégico. En la imagen de abajo se puede identificar que el Plan Estratégico de la ONIC cuenta con 29 líneas de acción que se desarrollarán en 42 programas, que a su vez cuentan con 97 proyectos. 
+Ante este panorama, el llamado a la unidad es más urgente que nunca. La fragmentación no solo debilita a los movimientos, sino que, también, los hace más vulnerables a la cooptación por parte de actores externos. "Si no superamos nuestras diferencias, nos arriesgamos a perder todo lo que hemos logrado", advirtió Luis Fernando Arias, Consejero Mayor de la ONIC 2017-2021, reconocido por su gran capacidad de dirección del movimiento indígena colombiano y por la orientación activa hacia un movimiento social unido.
 
-![Imagen](./images/b1i11.png)
-<span class="img-sub">Figura. Panel de mando del Sistema de Gestión de Plan Estratégico de la ONIC</span>
+El desafío ahora es encontrar maneras de construir esa unidad sin sacrificar la diversidad que caracteriza al movimiento indígena y al movimiento social. Para muchos, la clave está en fomentar un diálogo abierto y respetuoso que permita superar las diferencias y fortalecer la solidaridad sabiendo que la renovación generacional de los movimientos sociales está sucediendo y los líderes mayores saben de la urgencia de romper ciclos que permitan abrir caminos a la construcción de territorios en armonía y equilibrio sabiendo de los retos connaturales a la existencia pero dejando unas guías en aprendizajes incorporados para las nuevas generaciones que deben de seguir las luchas.
 
- 
+La Ley de Origen de la ONIC lo resume con claridad: "Es tiempo de construir un nuevo país". Este llamado no es solo un eslogan, sino un imperativo ético para aquellos que luchan por un cambio verdadero. La situación en Colombia es crítica, y los próximos meses serán decisivos. Con un contexto político en constante cambio, la capacidad del movimiento indígena y en unidad al movimiento social pueden dar el pulso necesario en la real transformación de la que somos legatarios el poder constituyente primario.
+
 
 # Publicaciones del Consejero Jaizareama Gerardo Jumi
 
-### ¡Nos están matando y el Fiscal Barbosa no hizo nada! ¡Los Pueblos Indígenas de Colombia exigen el cambio de Fiscal ya!
+#### “Apoyamos la paz total, pero el balance es muy pobre”: líder indígena Gerardo Jumí
 ---
 
-El Informe del Observatorio de Derechos Humanos de los Pueblos Indígenas de la ONIC de 2023 demuestra en cifras la ineficacia de la Fiscalía colombiana ante el genocidio de los Pueblos Indígenas. La ONIC exige la elección urgente de una nueva fiscal comprometida con la justicia para que nunca se repitan los hechos aberrantes que se han presentado contra los Pueblos Indígenas. <a href="https://www.revistaraya.com/gerardo-jumi/589-nos-estan-matando-y-el-fiscal-barbosa-no-hizo-nada-los-pueblos-indigenas-de-colombia-exigen-el-cambio-de-fiscal-ya.html" target="_blank">ver aquí</a> 
 
 
-#### Raíces del genocidio: Gaza y territorios indígenas
+#### El mejor gol de la Copa América
 ---
-En medio de la tragedia de miles de palestinos que están siendo asesinados, a la vez, existen múltiples genocidios contra nuestros Pueblos indígenas en Colombia, en común tienen el interés económico que brindan las riquezas de estos territorios y lo incómodo que pueden ser las comunidades locales. Se resalta la lucha del gran Kimy Pernía por defender el Río Sinú, territorio de los Emberá Katio, y el desenlace fatídico en manos del paramilitar Salvatore Mancuso. De todas maneras la resistencia persiste y la solidaridad entre Pueblos también, el llamado es a realizar la economía propia del buen vivir. <a href="https://revistaraya.com/gerardo-jumi/598-raices-del-genocidio-gaza-y-territorios-indigenas.html" target="_blank">ver aquí</a>
+
 
 <div class="bg-success text-white p-2 mt-2 mb-2 ps-3">
             <div class="text-center"> Si quieres, puedes reenviar este boletín a tus contactos o decirles que se apunten
@@ -112,18 +91,7 @@ En medio de la tragedia de miles de palestinos que están siendo asesinados, a l
 
 # Referencias
 
-[^1]:Estatutos de 2003 de la ONIC registrados en la Cámara de Comercio.
-
-
-[^2]: Declaración de Emergencia Humanitaria de y por los Pueblos Indígenas, 09 de agosto de 2019. Disponible en: <a href="https://www.onic.org.co/comunicados-onic/3105-declaracion-de-emergencia-humanitaria-de-y-por-los-pueblos-indigenas" target="_blank">ver aquí</a>
-
-[^3]: Información sistematizada en el Observatorio de Derechos Humanos de la ONIC desde 2016 como esfuerzo propio para monitorear la situación territorial de Derechos Humanos de acuerdo a la política del Acuerdo Final de Paz.
-
-[^4]: Ministerio de Salud y Protección Social/Instituto Nacional de Salud./Instituto Colombiano de Bienestar Familiar. Boletín de Prensa No 04 de 2024, Disminuye la mortalidad por desnutrición aguda en niños y niñas menores de cinco años en el país. Disponible en: <a href="https://www.minsalud.gov.co/Paginas/Disminuye-la-mortalidad-por-desnutricion-aguda-en-ninos-y-ninas-menores-de-cinco-anos-en-el-pais.aspx" target="_blank">ver aquí</a>
-
-[^5]: Córdoba: Cabildos Mayores Embera Katío del Alto Sinú – CAMAEMKA, Resguardo Quebrada Cañaveral y Resguardo Dochama San José de Uré. Antioquia: Organización Indígena de Antioquia – OIA. Caldas: Consejo Regional Indígena de Caldas - CRIDEC y Organización Regional Indígena de Caldas - ORICAL. Risaralda: Consejo Regional Indígena de Risaralda – CRIR. Tolima: Comunidad Indígena Biania Embera Chami. Quindío: Organización Regional Indígena del Quindío – ORIQUIN. Valle del Cauca: ACIVA y Organización Regional Indígena del Valle del Cauca – ORIVAC. Nariño: Asociación de Cabildos Indígenas Eperara Siapidaara de Nariño – ACIESNA. Cauca: ACIESCA. Chocó: Asociación de Cabildos Indígenas Embera, Wounaan, Katío, Chamí y Tule del Departamento del Chocó – ASOREWA, Federación de Asociaciones de Cabildos Indígenas del Departamento del Chocó – FEDEOREWA, Consejo Regional Indígena del Chocó – CRICH, Asociación de Autoridades Indígenas Embera Katios del Departamento del Chocó -ASOKATÍO y Gobierno Ancestral Territorial de los Pueblos Indígenas del Chocó - AUTORIDAD TRADICIONAL. Alto Andágueda: ZONAS 1 - 3. Caquetá (Comunidad). Magdalena Medio, Santander: Comunidad Emberá Chamí Dachi Drua. Meta: Resguardo La Julia. Putumayo: Asociación ASCEK – KIPAR. 
-
-[^6]: Intervención de la Compañera Emberá Chami Directora de la Unidad para la Atención y Reparación Integral a las Víctimas Patricia Tobón ante la Corte Constitucional en la sesión técnica de la Sala Especial de Seguimiento a la Sentencia T-025 de 2004, 10 de mayo de 2024.
+[^1]:Análisis con datos del Censo Nacional de Población y Vivienda de 2018.b Fuente: Maturana et al., 2022.  Condiciones de vida y pobreza multidimensional de poblaciones indígenas y afrodescendientes en Colombia a partir del CNPV 2018. DANE. Disponible en:<a href="https://www.dane.gov.co/files/censo2018/estudios-poscensales/05-condiciones-de-vida-y-pobreza-multidimensional-indigenas-afrodescendientes-colombia.pdf " target="_blank">ver aquí</a>
 
 
 
