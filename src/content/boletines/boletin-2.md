@@ -30,7 +30,6 @@ Ahora vemos a quienes decían acompañarnos y hasta defendernos convertirse en l
  
 ### El Rol Vital de los Pueblos Emberá en la protección de la Biodiversidad y equilibrio ecosistémico del Chocó Biogeográfico
 ----
-
 Artículo de opinión: Higinio Obispo del pueblo Eperara Siapidaara.
 
 Los Emberá son guardianes de la biodiversidad en el Chocó Biogeográfico. Sus prácticas ancestrales y políticas de conservación se basan en sus saberes tradicionales para sustentar ecosistemas y promover la restauración ecológica. Su Plan de Vida busca mantener estos conocimientos y asegurar beneficios comunitarios.
@@ -75,9 +74,7 @@ El desafío ahora es encontrar maneras de construir esa unidad sin sacrificar la
 
 La Ley de Origen de la ONIC lo resume con claridad: "Es tiempo de construir un nuevo país". Este llamado no es solo un eslogan, sino un imperativo ético para aquellos que luchan por un cambio verdadero. La situación en Colombia es crítica, y los próximos meses serán decisivos. Con un contexto político en constante cambio, la capacidad del movimiento indígena y en unidad al movimiento social pueden dar el pulso necesario en la real transformación de la que somos legatarios el poder constituyente primario.
 
-
 # Publicaciones del Consejero Jaizareama Gerardo Jumi
-
 #### “Apoyamos la paz total, pero el balance es muy pobre”: líder indígena Gerardo Jumí
 ---
 Entrevista del diario El Espectador al Consejero Gerardo Jumi evidenciando la situación de abandono y despreocupación de tomadores de decisión frente a la situación en los territorios indígenas. Denuncia el incumplimiento del acuerdo de paz, el aumento de violaciones de derechos humanos y la falta de garantías para un retorno seguro de las comunidades desplazadas (<a href="https://www.elespectador.com/politica/apoyamos-la-paz-total-pero-el-balance-es-muy-pobre-lider-indigena-gerardo-jumi/ " target="_blank">ver aquí</a>).
