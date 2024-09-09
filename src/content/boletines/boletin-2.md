@@ -3,7 +3,7 @@ index: 2
 titulo: "La Encrucijada de la Unidad: Resistencia Indígena, Protección de los territorios indígenas y Desafíos en la Colombia de Hoy"
 short: "La Encrucijada de la Unidad;"
 vigencia: 2024
-mes: "II"
+mes: "Agosto"
 tags: "Unidad Indígena, Biodiversidad, Resistencia, Conflictos Internos, Movimiento Social"
 img: "/img/boletines/b2img0.JPG"
 ---
