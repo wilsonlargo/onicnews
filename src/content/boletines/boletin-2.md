@@ -73,6 +73,7 @@ Ante este panorama, el llamado a la unidad es más urgente que nunca. La fragmen
 El desafío ahora es encontrar maneras de construir esa unidad sin sacrificar la diversidad que caracteriza al movimiento indígena y al movimiento social. Para muchos, la clave está en fomentar un diálogo abierto y respetuoso que permita superar las diferencias y fortalecer la solidaridad sabiendo que la renovación generacional de los movimientos sociales está sucediendo y los líderes mayores saben de la urgencia de romper ciclos que permitan abrir caminos a la construcción de territorios en armonía y equilibrio sabiendo de los retos connaturales a la existencia pero dejando unas guías en aprendizajes incorporados para las nuevas generaciones que deben de seguir las luchas.
 
 La Ley de Origen de la ONIC lo resume con claridad: "Es tiempo de construir un nuevo país". Este llamado no es solo un eslogan, sino un imperativo ético para aquellos que luchan por un cambio verdadero. La situación en Colombia es crítica, y los próximos meses serán decisivos. Con un contexto político en constante cambio, la capacidad del movimiento indígena y en unidad al movimiento social pueden dar el pulso necesario en la real transformación de la que somos legatarios el poder constituyente primario.
+
 ![Imagen](./images/b2img0.JPG)
 
 # Publicaciones del Consejero Jaizareama Gerardo Jumi
