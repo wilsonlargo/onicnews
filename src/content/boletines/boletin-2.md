@@ -10,7 +10,6 @@ img: "/img/boletines/b1i1.png"
 
 # Editorial
 ### Defendiendo Nuestra Unidad: Resistencia Originara ante las Traiciones en tiempos de cambio
----
 La unidad de los pueblos indígenas, basada en la solidaridad, es vital ante las amenazas actuales. La lucha por el territorio y la vida es vital más que nunca, fortalecer nuestros procesos de unidad es crucial para defender nuestros derechos y el legado ancestral.
 ---
 Los tiempos pueden cambiar, pero las luchas siguen siendo las mismas. No hemos sido pasivos en la espera, desde nuestras autoridades ancestrales, desde las leyes de origen, resuenan las bases a las cuales no hemos renunciado. Un camino tortuoso donde hemos visto la muerte de muchos compañeros y compañeras indígenas, hemos visto desaparecer nuestros territorios en las fauces insaciables de avarientos. Ante todo esto, la unidad de los pueblos ha sido la mayor defensa. Esta unidad se basa en la solidaridad que nos ha permitido la identidad. Aunque, ahora está en riesgo.
