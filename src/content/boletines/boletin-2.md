@@ -10,7 +10,6 @@ img: "/img/boletines/b2img0.JPG"
 
 # Editorial
 ### Defendiendo Nuestra Unidad: Resistencia Originara ante las Traiciones en tiempos de cambio
-Autor: Sixto Quintero. 
 
 La unidad de los pueblos indígenas, basada en la solidaridad, es vital ante las amenazas actuales. La lucha por el territorio y la vida es vital más que nunca, fortalecer nuestros procesos de unidad es crucial para defender nuestros derechos y el legado ancestral.
 
@@ -30,7 +29,6 @@ Ahora vemos a quienes decían acompañarnos y hasta defendernos convertirse en l
  
 ### El Rol Vital de los Pueblos Emberá en la protección de la Biodiversidad y equilibrio ecosistémico del Chocó Biogeográfico
 ----
-Artículo de opinión: Higinio Obispo del pueblo Eperara Siapidaara.
 
 Los Emberá son guardianes de la biodiversidad en el Chocó Biogeográfico. Sus prácticas ancestrales y políticas de conservación se basan en sus saberes tradicionales para sustentar ecosistemas y promover la restauración ecológica. Su Plan de Vida busca mantener estos conocimientos y asegurar beneficios comunitarios.
 
@@ -54,7 +52,6 @@ Es imprescindible que los derechos, intereses y medios de subsistencia de las fa
 # Buen Gobierno
 ### La Urgencia de la Unidad: Los Conflictos Internos amenazan al Movimiento Indígena, las divisiones políticas, económicas y culturales debilitan la lucha por los derechos en un momento de pulso para la transformación de Colombia.
 ----
-Autora: Daniela Buitrago R. 
 
 La unidad es crucial para los movimientos indígenas y sociales en Colombia, según la Ley de Origen de la ONIC. Sin embargo, las divisiones internas, alimentadas por diferencias ideológicas, competencia por recursos y pobreza, debilitan su lucha. Superar estas tensiones es urgente para enfrentar la violencia y construir un nuevo país.
 
@@ -92,6 +89,12 @@ Los pueblos indígenas de Colombia celebran a Luis Díaz, un talento Wayúu naci
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7ya1kjLf2MY49mLGgkfslqdDGDQuk9rrrcDEHNNKmRllSNA/viewform" target="_blank" class="text-white">aquí</a>. Puedes escribirme con ideas, comentarios y sugerencias a sistemabuengobierno@onic.org.co
                 o a mi cuenta de Twitter: @GerardoJumi</div>
 </div>
+
+# Colaboradores
+
+Sixto Quintero.
+Daniela Buitrago R.
+Higinio Obispo del pueblo Eperara Siapidaara.
 
 # Referencias
 
