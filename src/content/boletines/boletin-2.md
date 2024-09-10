@@ -93,7 +93,9 @@ Los pueblos indígenas de Colombia celebran a Luis Díaz, un talento Wayúu naci
 ##### Colaboradores
 
 Sixto Quintero.
+
 Daniela Buitrago R.
+
 Higinio Obispo del pueblo Eperara Siapidaara.
 
 # Referencias
