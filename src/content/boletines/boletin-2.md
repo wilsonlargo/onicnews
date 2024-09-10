@@ -90,7 +90,7 @@ Los pueblos indígenas de Colombia celebran a Luis Díaz, un talento Wayúu naci
                 o a mi cuenta de Twitter: @GerardoJumi</div>
 </div>
 
-# Colaboradores
+##### Colaboradores
 
 Sixto Quintero.
 Daniela Buitrago R.
